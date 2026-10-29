@@ -1,0 +1,11 @@
+{
+  "voice": "es-DO-EmilioNeural",
+  "tts": "edge-tts",
+  "rate": "-8%",
+  "paid_generation_usd": 0,
+  "ocr": false,
+  "audio": "Actual generated speech, not simulated",
+  "caption_timing": "Sentence timing estimated proportionally inside each measured audio segment",
+  "source": "Five user-provided worksheet photographs; manually reviewed",
+  "video_engine": "Motion Canvas 3.17.2"
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "image": 1,
+    "file": "hoja-1.jpg",
+    "sha256": "d33bd3b78267ebf908f4ca34078f01db08f39f067302ee8cfaebf44dfb0183bb"
+  },
+  {
+    "image": 2,
+    "file": "hoja-2.jpg",
+    "sha256": "0bf0a48746159a66645ec9cdb0208a26f68034cdf436579b3ddaf6da29c8db0d"
+  },
+  {
+    "image": 3,
+    "file": "hoja-3.jpg",
+    "sha256": "5e482f7a654b0df949217f086fca7910ab7fd29853c8d823edc32c4ae2d60192"
+  },
+  {
+    "image": 4,
+    "file": "hoja-4.jpg",
+    "sha256": "f16757ed00e3c5c534108616354cf0a2b05090671b95d6a2c06420c0362b8905"
+  },
+  {
+    "image": 5,
+    "file": "hoja-5.jpg",
+    "sha256": "9786642305e5b27332d3f1ff2566acbb9ea8f53963d532dbc5dfc9e387e5e35e"
+  }
+]

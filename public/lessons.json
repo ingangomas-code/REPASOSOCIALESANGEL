@@ -1,0 +1,812 @@
+[
+  {
+    "id": "orientacion",
+    "number": "01",
+    "title": "Encuentra tu rumbo",
+    "subtitle": "Puntos cardinales y brújula",
+    "color": "#d9ff70",
+    "sources": [
+      1,
+      3
+    ],
+    "exercises": [
+      "1a",
+      "1b",
+      "1c",
+      "1f",
+      "1i",
+      "2"
+    ],
+    "summary": [
+      "Norte y sur son opuestos; este y oeste también.",
+      "La brújula usa una aguja imantada: su extremo norte apunta aproximadamente al norte magnético.",
+      "El Sol sale aproximadamente por el este. La derecha depende de hacia dónde mires."
+    ],
+    "beats": [
+      {
+        "title": "Un mapa para pensar",
+        "label": "LA MISIÓN",
+        "visual": "compass",
+        "focus": "all",
+        "facts": [
+          "Observa una referencia",
+          "Encuentra una dirección",
+          "Comprueba el recorrido"
+        ],
+        "narration": "Imagina que vas a explorar y necesitas explicar dónde está un lugar. Decir por allá no ayuda mucho. Necesitamos referencias que otras personas también entiendan. Hoy construiremos una herramienta mental: los puntos cardinales. Mira la rosa de los vientos. Sus cuatro direcciones principales nos ayudan a describir lugares y recorridos. Antes de memorizar, vamos a descubrir cómo se relacionan.",
+        "start": 0,
+        "duration": 35.125,
+        "end": 35.125
+      },
+      {
+        "title": "Cuatro direcciones, dos parejas",
+        "label": "OBSERVA LA RELACIÓN",
+        "visual": "compass",
+        "focus": "pairs",
+        "facts": [
+          "Norte ↔ Sur",
+          "Este ↔ Oeste",
+          "En este mapa, el norte está arriba"
+        ],
+        "narration": "Los puntos cardinales son norte, sur, este y oeste. El norte está en dirección opuesta al sur; el este está en dirección opuesta al oeste. En el mapa que ves hemos colocado el norte arriba: por eso el sur queda abajo, el este a la derecha y el oeste a la izquierda. Pero atención: esa colocación describe este mapa. El norte no es el techo del mundo.",
+        "start": 35.125,
+        "duration": 30.625,
+        "end": 65.75
+      },
+      {
+        "title": "La aguja tiene una pista",
+        "label": "UNA HERRAMIENTA REAL",
+        "visual": "compass",
+        "focus": "needle",
+        "facts": [
+          "Brújula: instrumento de orientación",
+          "Aguja imantada",
+          "Norte magnético ≈ norte geográfico"
+        ],
+        "narration": "La brújula es un instrumento que nos ayuda a orientarnos. Dentro tiene una aguja imantada. Su extremo marcado como norte se orienta aproximadamente hacia el norte magnético. Decimos aproximadamente porque el norte magnético y el geográfico no son exactamente el mismo punto. Si giras tu cuerpo, no cambias el norte: cambias tu posición respecto a él. Esa diferencia será útil en nuestro primer reto.",
+        "start": 65.75,
+        "duration": 34.5,
+        "end": 100.25
+      },
+      {
+        "title": "La salida del Sol",
+        "label": "BUSCA UNA REFERENCIA",
+        "visual": "sun",
+        "focus": "east",
+        "facts": [
+          "Amanece: mira hacia el este",
+          "Si miras al norte: este a tu derecha",
+          "Si giras, tu derecha cambia"
+        ],
+        "narration": "Otra referencia es el Sol. Para este repaso recordaremos que sale aproximadamente por el este y se pone aproximadamente por el oeste. Si miras hacia el norte, el este queda a tu derecha. Si ahora te das media vuelta, tu derecha apunta al oeste. Por eso no debemos decir que el este siempre es la derecha. La dirección cardinal permanece aunque nosotros nos giremos.",
+        "start": 100.25,
+        "duration": 31.791666666666668,
+        "end": 132.041667
+      },
+      {
+        "title": "Ir y volver no es lo mismo",
+        "label": "SIGUE EL RECORRIDO",
+        "visual": "route",
+        "focus": "return",
+        "facts": [
+          "Ida: hacia el norte",
+          "Vuelta: hacia el sur",
+          "Regresar invierte la dirección"
+        ],
+        "narration": "Salgamos de casa y caminemos hacia el norte hasta una biblioteca. Ahora queremos regresar por el mismo camino. ¿Seguimos caminando hacia el norte? No: para volver, avanzamos hacia el sur. El recorrido tiene los mismos lugares, pero cambia la dirección. También ocurre con el este y el oeste. Saber los nombres es útil; usarlos para explicar un movimiento es entenderlos.",
+        "start": 132.041667,
+        "duration": 33.708333333333336,
+        "end": 165.75
+      },
+      {
+        "title": "Tu caja de herramientas",
+        "label": "RESUMEN · AHORA TE TOCA",
+        "visual": "compass",
+        "focus": "all",
+        "facts": [
+          "Dos parejas de opuestos",
+          "Brújula + referencias",
+          "Explica cómo lo sabes"
+        ],
+        "narration": "Guarda estas tres ideas. Hay cuatro puntos cardinales organizados en dos parejas de opuestos. La brújula nos orienta con una aguja imantada. Y una buena explicación necesita una referencia: hacia dónde miras, de dónde sales o adónde vas. Ahora vienen tres desafíos. Puedes detenerte, volver a mirar una escena o pedir una pista. Lo importante será justificar tu respuesta.",
+        "start": 165.75,
+        "duration": 34.0,
+        "end": 199.75
+      }
+    ],
+    "checkpoint": {
+      "prompt": "Estás mirando al norte y das media vuelta. ¿Hacia dónde miras?",
+      "options": [
+        "Hacia el este",
+        "Hacia el sur",
+        "Hacia el norte"
+      ],
+      "answer": 1,
+      "hint": "Media vuelta te coloca en la dirección opuesta.",
+      "explanation": "Miras al sur. Giraste tú; los puntos cardinales conservaron sus direcciones."
+    },
+    "quiz": [
+      {
+        "prompt": "¿Qué elemento de una brújula ayuda a señalar el norte magnético?",
+        "options": [
+          "Una aguja imantada",
+          "Un reloj",
+          "La luz de la pantalla"
+        ],
+        "answer": 0,
+        "hint": "Su funcionamiento está relacionado con el magnetismo.",
+        "explanation": "La aguja imantada se orienta con el campo magnético de la Tierra."
+      },
+      {
+        "prompt": "Caminas al oeste y vuelves por el mismo camino. ¿En qué dirección regresas?",
+        "options": [
+          "Norte",
+          "Oeste",
+          "Este"
+        ],
+        "answer": 2,
+        "hint": "Busca la dirección opuesta al oeste.",
+        "explanation": "Regresas hacia el este: has invertido el sentido del recorrido."
+      },
+      {
+        "prompt": "Un amigo dice: «El este siempre está a mi derecha». ¿Qué le responderías?",
+        "options": [
+          "Sí, aunque se gire",
+          "Solo si está mirando al norte",
+          "Solo durante la noche"
+        ],
+        "answer": 1,
+        "hint": "Piensa en lo que pasa con tu derecha cuando das media vuelta.",
+        "explanation": "La derecha depende de hacia dónde mira. Si mira al norte, el este está a su derecha."
+      }
+    ],
+    "duration": 199.75,
+    "checkpointAt": 100.25
+  },
+  {
+    "id": "hemisferios",
+    "number": "02",
+    "title": "La línea que divide el mundo",
+    "subtitle": "Ecuador y hemisferios",
+    "color": "#71d4ff",
+    "sources": [
+      1,
+      3
+    ],
+    "exercises": [
+      "1d",
+      "1e",
+      "1g",
+      "1h",
+      "1j",
+      "3"
+    ],
+    "summary": [
+      "El ecuador es una línea imaginaria que divide la Tierra en hemisferio norte y hemisferio sur.",
+      "En la actividad: ecuador rojo, hemisferio norte azul y hemisferio sur verde.",
+      "República Dominicana se encuentra al norte del ecuador."
+    ],
+    "beats": [
+      {
+        "title": "Una línea que no es una pared",
+        "label": "LA MISIÓN",
+        "visual": "globe",
+        "focus": "equator",
+        "facts": [
+          "Una referencia imaginaria",
+          "No es una frontera de países",
+          "Nos ayuda a ubicar lugares"
+        ],
+        "narration": "Vamos a mirar la Tierra desde lejos. Los mapas dibujan líneas que ayudan a pensar, aunque no veamos esas líneas pintadas en el suelo. Una de ellas es el ecuador. Rodea la Tierra a mitad de camino entre los polos. No es una pared y tampoco separa necesariamente países. Es una referencia imaginaria para describir en qué mitad de la Tierra está un lugar.",
+        "start": 0,
+        "duration": 30.625,
+        "end": 30.625
+      },
+      {
+        "title": "Dos mitades con nombre",
+        "label": "DIVIDE Y COMPARA",
+        "visual": "globe",
+        "focus": "halves",
+        "facts": [
+          "Norte: azul",
+          "Ecuador: rojo",
+          "Sur: verde"
+        ],
+        "narration": "La palabra hemisferio significa media esfera. Tomando el ecuador como referencia, distinguimos el hemisferio norte y el hemisferio sur. En tu hoja se pide colorear de azul el norte, de verde el sur y de rojo la línea del ecuador. Conservaremos esos colores para que conectes la animación con tu actividad. Los colores son una ayuda del dibujo, no los colores reales de la Tierra.",
+        "start": 30.625,
+        "duration": 31.333333333333332,
+        "end": 61.958333
+      },
+      {
+        "title": "¿Norte y sur, o este y oeste?",
+        "label": "DETECTA LA DIFERENCIA",
+        "visual": "globe",
+        "focus": "equator",
+        "facts": [
+          "El ecuador separa norte y sur",
+          "Oriental significa este",
+          "Occidental significa oeste"
+        ],
+        "narration": "Aquí hay una confusión que conviene resolver. El ecuador divide la Tierra en hemisferios norte y sur; no la divide en oriental y occidental. Oriental se relaciona con el este y occidental con el oeste. Esas palabras aparecen en tu banco de palabras. Para responder bien, observa qué línea se está usando como referencia. Una misma Tierra puede describirse de distintas maneras.",
+        "start": 61.958333,
+        "duration": 32.416666666666664,
+        "end": 94.375
+      },
+      {
+        "title": "¿Dónde está nuestro país?",
+        "label": "DE LO GRANDE A LO CERCANO",
+        "visual": "globe",
+        "focus": "dom",
+        "facts": [
+          "República Dominicana",
+          "Al norte del ecuador",
+          "Hemisferio norte"
+        ],
+        "narration": "Busquemos ahora República Dominicana. Está en el Caribe y se encuentra al norte del ecuador. Por eso pertenece al hemisferio norte. No hace falta que esté cerca del polo norte para pertenecer a ese hemisferio: basta con estar al norte de la línea. En este dibujo hemos marcado su posición de forma esquemática para que puedas reconocer la relación, sin memorizar números.",
+        "start": 94.375,
+        "duration": 31.0,
+        "end": 125.375
+      },
+      {
+        "title": "Cruzar una referencia",
+        "label": "IMAGINA EL CAMBIO",
+        "visual": "globe",
+        "focus": "cross",
+        "facts": [
+          "Sales del hemisferio norte",
+          "Cruzas el ecuador",
+          "Entras al hemisferio sur"
+        ],
+        "narration": "Imagina un viaje que comienza al norte del ecuador y avanza hacia el sur hasta cruzarlo. Has cambiado de hemisferio. Pero eso no nos permite asegurar que hayas cambiado de país: algunos países tienen territorio a ambos lados del ecuador. Fíjate en cómo razonamos. Una pista nos dice algo concreto, y debemos evitar concluir más de lo que esa pista demuestra.",
+        "start": 125.375,
+        "duration": 30.583333333333332,
+        "end": 155.958333
+      },
+      {
+        "title": "Una regla para recordar",
+        "label": "RESUMEN · AHORA TE TOCA",
+        "visual": "globe",
+        "focus": "halves",
+        "facts": [
+          "Ecuador: línea imaginaria",
+          "Norte y sur: dos hemisferios",
+          "Nuestro país está al norte"
+        ],
+        "narration": "Recuerda la relación principal: ecuador, hemisferio norte y hemisferio sur. En un mapa con el norte arriba, el hemisferio norte aparece por encima del ecuador, pero no es un piso superior del planeta. República Dominicana pertenece a esa mitad norte. En los retos vas a identificar colores, corregir una afirmación y usar la línea para explicar un viaje.",
+        "start": 155.958333,
+        "duration": 30.166666666666668,
+        "end": 186.125
+      }
+    ],
+    "checkpoint": {
+      "prompt": "¿Qué dos hemisferios separa el ecuador?",
+      "options": [
+        "Oriental y occidental",
+        "Norte y sur",
+        "Ciudad y campo"
+      ],
+      "answer": 1,
+      "hint": "Mira las dos mitades azul y verde.",
+      "explanation": "Separa el hemisferio norte del hemisferio sur. Oriental y occidental se refieren al este y al oeste."
+    },
+    "quiz": [
+      {
+        "prompt": "Según la actividad, ¿qué combinación es correcta?",
+        "options": [
+          "Ecuador azul; norte rojo",
+          "Ecuador verde; sur rojo",
+          "Ecuador rojo; norte azul; sur verde"
+        ],
+        "answer": 2,
+        "hint": "La línea es roja; las dos mitades tienen colores diferentes.",
+        "explanation": "Conservamos exactamente el código de colores de tu hoja: rojo, azul y verde."
+      },
+      {
+        "prompt": "República Dominicana está al norte del ecuador. ¿Qué podemos concluir?",
+        "options": [
+          "Está en el hemisferio norte",
+          "Está junto al polo norte",
+          "Está en el hemisferio sur"
+        ],
+        "answer": 0,
+        "hint": "Pertenecer a una mitad no significa estar cerca de su extremo.",
+        "explanation": "Está en el hemisferio norte. La información no dice que esté cerca del polo."
+      },
+      {
+        "prompt": "Una viajera cruza el ecuador hacia el sur. ¿Qué sabemos con seguridad?",
+        "options": [
+          "Cambió de país",
+          "Entró al hemisferio sur",
+          "Llegó a una isla"
+        ],
+        "answer": 1,
+        "hint": "El ecuador identifica hemisferios, no fronteras políticas.",
+        "explanation": "Entró al hemisferio sur. Cambiar de país o llegar a una isla necesitaría otras pistas."
+      }
+    ],
+    "duration": 186.125,
+    "checkpointAt": 94.375
+  },
+  {
+    "id": "isla",
+    "number": "03",
+    "title": "Una isla, dos países",
+    "subtitle": "La Española y sus vecinos",
+    "color": "#c5b4ff",
+    "sources": [
+      1,
+      2
+    ],
+    "exercises": [
+      "4",
+      "5"
+    ],
+    "summary": [
+      "La Española o isla de Santo Domingo es compartida por Haití, al oeste, y República Dominicana, al este.",
+      "Capitales: Santo Domingo y Puerto Príncipe.",
+      "Límites de la isla pedidos en la hoja: Atlántico al norte, Caribe al sur, canal de la Mona al este y canal del Viento al oeste."
+    ],
+    "beats": [
+      {
+        "title": "Una isla no es un país",
+        "label": "LA MISIÓN",
+        "visual": "island",
+        "focus": "countries",
+        "facts": [
+          "La Española",
+          "Haití: parte oeste",
+          "República Dominicana: parte este"
+        ],
+        "narration": "Una isla es una porción de tierra rodeada de agua. Un país es un territorio con su propia organización política. No significan lo mismo. La Española, también llamada isla de Santo Domingo, está compartida por dos países: Haití ocupa la parte oeste y República Dominicana la parte este. Si cruzas la frontera entre ambos por tierra, cambias de país y sigues en la misma isla.",
+        "start": 0,
+        "duration": 32.916666666666664,
+        "end": 32.916667
+      },
+      {
+        "title": "Dos países, dos capitales",
+        "label": "UBICA CADA NOMBRE",
+        "visual": "island",
+        "focus": "capitals",
+        "facts": [
+          "República Dominicana → Santo Domingo",
+          "Haití → Puerto Príncipe",
+          "Santiago no es la capital del país"
+        ],
+        "narration": "La capital de República Dominicana es Santo Domingo. La capital de Haití es Puerto Príncipe. Santiago es una ciudad dominicana importante, pero no es la capital del país. En tu hoja aparece una frase que afirma lo contrario para que detectes que es falsa. No basta con poner una efe: puedes corregirla y demostrar que sabes cuál es la información correcta.",
+        "start": 32.916667,
+        "duration": 30.166666666666668,
+        "end": 63.083333
+      },
+      {
+        "title": "Mira el agua alrededor",
+        "label": "LOS LÍMITES DE LA ISLA",
+        "visual": "island",
+        "focus": "seas",
+        "facts": [
+          "Norte: océano Atlántico",
+          "Sur: mar Caribe",
+          "Usa la rosa de los vientos"
+        ],
+        "narration": "Vamos a rodear la isla usando los puntos cardinales. Al norte encontramos el océano Atlántico y al sur el mar Caribe. Imagina que estás mirando el mapa con el norte arriba: el Atlántico queda por encima de la isla y el Caribe por debajo. Relacionar estos nombres con las direcciones te ayuda más que repetir una lista sin mirar el mapa.",
+        "start": 63.083333,
+        "duration": 27.916666666666668,
+        "end": 91.0
+      },
+      {
+        "title": "Dos pasos de agua",
+        "label": "ESTE Y OESTE",
+        "visual": "island",
+        "focus": "channels",
+        "facts": [
+          "Este: canal de la Mona",
+          "Oeste: canal del Viento",
+          "La pregunta habla de la isla completa"
+        ],
+        "narration": "Al este de la isla está el canal de la Mona, que la separa de Puerto Rico. Al oeste está el paso de los Vientos, llamado canal del Viento en tu hoja, que la separa de Cuba. Aquí hablamos de los límites de la isla completa. Si preguntamos por el país República Dominicana, al oeste su vecino terrestre es Haití. Leer bien la pregunta cambia la respuesta.",
+        "start": 91.0,
+        "duration": 30.166666666666668,
+        "end": 121.166667
+      },
+      {
+        "title": "¿Qué cambia al cruzar?",
+        "label": "UNE LAS PISTAS",
+        "visual": "island",
+        "focus": "cross",
+        "facts": [
+          "De República Dominicana a Haití",
+          "Viajas hacia el oeste",
+          "Misma isla; distinto país"
+        ],
+        "narration": "Hagamos una prueba mental. Sales de República Dominicana y avanzas hacia Haití. En términos generales, viajas hacia el oeste. Al cruzar la frontera cambias de país. No cambias de isla y tampoco necesitas cruzar un océano. Esta explicación usa varias pistas juntas: el mapa, las direcciones y la diferencia entre isla y país. Eso es razonar con lo que sabes.",
+        "start": 121.166667,
+        "duration": 33.541666666666664,
+        "end": 154.708333
+      },
+      {
+        "title": "Arma el mapa en tu cabeza",
+        "label": "RESUMEN · AHORA TE TOCA",
+        "visual": "island",
+        "focus": "seas",
+        "facts": [
+          "Oeste: Haití · Este: República Dominicana",
+          "Capitales diferentes",
+          "Isla y país tienen límites distintos"
+        ],
+        "narration": "Cierra el recorrido con una imagen mental: Haití al oeste y República Dominicana al este; Atlántico al norte y Caribe al sur. Añade los canales a los lados y recuerda las capitales. Cuando aparezca una afirmación falsa, conviértela en una afirmación verdadera. Y antes de responder sobre un límite, comprueba si están preguntando por el país o por la isla completa.",
+        "start": 154.708333,
+        "duration": 30.75,
+        "end": 185.458333
+      }
+    ],
+    "checkpoint": {
+      "prompt": "Viajas por tierra desde República Dominicana hasta Haití. ¿Qué cambió?",
+      "options": [
+        "El país, pero no la isla",
+        "La isla, pero no el país",
+        "El océano"
+      ],
+      "answer": 0,
+      "hint": "Los dos países comparten La Española.",
+      "explanation": "Cambiaste de país y permaneciste en la misma isla."
+    },
+    "quiz": [
+      {
+        "prompt": "«La capital de República Dominicana es Santiago». ¿Cómo corriges la frase?",
+        "options": [
+          "La capital es Puerto Plata",
+          "La capital es Santo Domingo",
+          "La capital es Puerto Príncipe"
+        ],
+        "answer": 1,
+        "hint": "Es un nombre que también aparece al hablar de la isla.",
+        "explanation": "La capital dominicana es Santo Domingo. Puerto Príncipe es la capital de Haití."
+      },
+      {
+        "prompt": "¿Qué pareja coloca correctamente los límites norte y sur de la isla?",
+        "options": [
+          "Caribe al norte; Atlántico al sur",
+          "Mona al norte; Viento al sur",
+          "Atlántico al norte; Caribe al sur"
+        ],
+        "answer": 2,
+        "hint": "Recuerda el agua que aparece arriba y abajo del mapa.",
+        "explanation": "Al norte está el océano Atlántico y al sur, el mar Caribe."
+      },
+      {
+        "prompt": "¿Por qué «Haití» y «canal del Viento» pueden aparecer al hablar del oeste?",
+        "options": [
+          "Porque uno limita con el país y el otro con la isla",
+          "Porque Haití es un canal",
+          "Porque ambos están al este"
+        ],
+        "answer": 0,
+        "hint": "Distingue República Dominicana de la isla completa.",
+        "explanation": "Haití es vecino al oeste de República Dominicana; el canal del Viento está al oeste de la isla completa."
+      }
+    ],
+    "duration": 185.458333,
+    "checkpointAt": 91.0
+  },
+  {
+    "id": "provincias",
+    "number": "04",
+    "title": "Detectives del mapa",
+    "subtitle": "Cinco provincias, cinco pistas",
+    "color": "#ffcb82",
+    "sources": [
+      4,
+      5
+    ],
+    "exercises": [
+      "7",
+      "10"
+    ],
+    "summary": [
+      "Monte Cristi lleva una estrella; Puerto Plata, rojo; San Juan, azul; La Altagracia, verde; Barahona, amarillo.",
+      "Monte Cristi y Puerto Plata sirven como ejemplos de provincias de la región norte.",
+      "Usa costas, vecinos y direcciones para encontrar provincias."
+    ],
+    "beats": [
+      {
+        "title": "Encontrar, no adivinar",
+        "label": "LA MISIÓN",
+        "visual": "provinces",
+        "focus": "all",
+        "facts": [
+          "Busca una costa",
+          "Compara posiciones",
+          "Comprueba el nombre"
+        ],
+        "narration": "Hoy el mapa es un tablero de investigación. Una provincia es una división del territorio del país. No vamos a memorizar todas de golpe: buscaremos cinco que aparecen en tu hoja. Para encontrarlas puedes observar las costas, comparar qué provincia está más al norte o al este y comprobar su nombre. Primero construiremos referencias; después harás tú las marcas de la actividad.",
+        "start": 0,
+        "duration": 31.125,
+        "end": 31.125
+      },
+      {
+        "title": "Dos pistas en el norte",
+        "label": "MONTE CRISTI Y PUERTO PLATA",
+        "visual": "provinces",
+        "focus": "north",
+        "facts": [
+          "Monte Cristi: una estrella",
+          "Puerto Plata: rojo",
+          "Ambas en la región norte"
+        ],
+        "narration": "Mira la parte norte del país. Monte Cristi está hacia el noroeste y en tu hoja debe llevar una estrella. Más hacia el este aparece Puerto Plata, que debes colorear de rojo. Las dos son ejemplos válidos para reconocer una provincia de la región norte. Puerto Plata tiene costa en el océano Atlántico: acabamos de conectar este mapa con lo aprendido sobre la isla.",
+        "start": 31.125,
+        "duration": 30.166666666666668,
+        "end": 61.291667
+      },
+      {
+        "title": "Una provincia del interior",
+        "label": "SAN JUAN",
+        "visual": "provinces",
+        "focus": "San Juan",
+        "facts": [
+          "San Juan: azul",
+          "Está en el interior",
+          "No tiene costa"
+        ],
+        "narration": "Ahora busca San Juan, en el interior del suroeste del país. La actividad pide colorearla de azul. Ese azul es una instrucción del ejercicio: no significa que la provincia sea un mar. Observa sus límites y comprueba que no llega a la costa. Los colores de un mapa necesitan una explicación o una leyenda; no siempre representan lo mismo.",
+        "start": 61.291667,
+        "duration": 29.208333333333332,
+        "end": 90.5
+      },
+      {
+        "title": "El extremo este",
+        "label": "LA ALTAGRACIA",
+        "visual": "provinces",
+        "focus": "La Altagracia",
+        "facts": [
+          "La Altagracia: verde",
+          "En el extremo este",
+          "El canal de la Mona está al este"
+        ],
+        "narration": "Viajemos con la mirada hasta el extremo este del país. Allí encontramos La Altagracia. Tu hoja pide colorearla de verde. Estar en el este no significa estar en la parte de arriba: arriba hemos colocado el norte. Recuerda la rosa de los vientos y observa la punta oriental del mapa. Al este de la isla se encuentra el canal de la Mona.",
+        "start": 90.5,
+        "duration": 29.083333333333332,
+        "end": 119.583333
+      },
+      {
+        "title": "Busca el suroeste",
+        "label": "BARAHONA",
+        "visual": "provinces",
+        "focus": "Barahona",
+        "facts": [
+          "Barahona: amarillo",
+          "En el suroeste",
+          "Tiene costa en el mar Caribe"
+        ],
+        "narration": "Nos falta Barahona. Búscala en el suroeste, junto al mar Caribe, y asocia su nombre con el amarillo que pide la hoja. Compárala con San Juan: ambas están en la parte suroeste del país, pero Barahona tiene costa y San Juan no. Esa comparación te permite distinguirlas sin depender únicamente de su color. Cada pista reduce las posibilidades.",
+        "start": 119.583333,
+        "duration": 29.75,
+        "end": 149.333333
+      },
+      {
+        "title": "Tu turno de cartógrafo",
+        "label": "RESUMEN · AHORA TE TOCA",
+        "visual": "provinces",
+        "focus": "all",
+        "facts": [
+          "Estrella · rojo · azul · verde · amarillo",
+          "Cinco nombres, cinco posiciones",
+          "Explica qué pista utilizaste"
+        ],
+        "narration": "Repasemos las marcas: estrella en Monte Cristi, rojo en Puerto Plata, azul en San Juan, verde en La Altagracia y amarillo en Barahona. Después del cuestionario encontrarás un mapa para practicar estas cinco instrucciones. Si dudas, vuelve a mirar las posiciones. Tu objetivo no es hacer clic deprisa: es poder explicar qué pista te permitió reconocer cada provincia.",
+        "start": 149.333333,
+        "duration": 30.875,
+        "end": 180.208333
+      }
+    ],
+    "checkpoint": {
+      "prompt": "Puerto Plata tiene costa en el norte. ¿Qué agua esperarías encontrar allí?",
+      "options": [
+        "El mar Caribe",
+        "El océano Atlántico",
+        "El canal de la Mona"
+      ],
+      "answer": 1,
+      "hint": "Recupera la relación entre norte y océano del capítulo anterior.",
+      "explanation": "El océano Atlántico está al norte de la isla."
+    },
+    "quiz": [
+      {
+        "prompt": "¿Qué provincia debe llevar una estrella?",
+        "options": [
+          "Monte Cristi",
+          "La Altagracia",
+          "San Juan"
+        ],
+        "answer": 0,
+        "hint": "Está hacia el noroeste.",
+        "explanation": "La hoja pide una estrella en Monte Cristi."
+      },
+      {
+        "prompt": "¿Qué provincia debes colorear de verde en el extremo este?",
+        "options": [
+          "Barahona",
+          "Puerto Plata",
+          "La Altagracia"
+        ],
+        "answer": 2,
+        "hint": "Busca la punta oriental del país.",
+        "explanation": "La Altagracia está en el extremo este y lleva verde en esta actividad."
+      },
+      {
+        "prompt": "San Juan y Barahona están en el suroeste. ¿Qué pista permite distinguirlas?",
+        "options": [
+          "San Juan tiene costa y Barahona no",
+          "Barahona tiene costa y San Juan no",
+          "Las dos son islas"
+        ],
+        "answer": 1,
+        "hint": "Mira cuál llega hasta el mar Caribe.",
+        "explanation": "Barahona llega al mar Caribe. San Juan es una provincia del interior."
+      }
+    ],
+    "duration": 180.208333,
+    "checkpointAt": 90.5
+  },
+  {
+    "id": "comunidad",
+    "number": "05",
+    "title": "Lee las pistas de tu comunidad",
+    "subtitle": "Lugares, paisajes y direcciones",
+    "color": "#ffabc2",
+    "sources": [
+      2,
+      4,
+      5
+    ],
+    "exercises": [
+      "6",
+      "8",
+      "9"
+    ],
+    "summary": [
+      "Relaciona cada lugar con su función: aeropuerto, biblioteca, iglesia y restaurante.",
+      "Lucas describe ciudad y escuela; Sofía, campo y granja; Mateo, costa y playa.",
+      "El letrero muestra una estación de bomberos: calle 72, número 38–150, barrio El Recreo, Barranquilla, Colombia."
+    ],
+    "beats": [
+      {
+        "title": "Un lugar tiene una función",
+        "label": "LA MISIÓN",
+        "visual": "community",
+        "focus": "services",
+        "facts": [
+          "Aeropuerto: viajar en avión",
+          "Biblioteca: leer e investigar",
+          "Iglesia y restaurante: funciones distintas"
+        ],
+        "narration": "Para reconocer los lugares de una comunidad podemos preguntar qué se hace allí. Un aeropuerto permite la llegada y salida de aviones. Una biblioteca ofrece libros y recursos para leer e investigar. Una iglesia es un lugar de culto y un restaurante prepara y sirve comidas. En tu hoja debes unir cada dibujo con su nombre. Comprender su función te ayuda a reconocerlo aunque cambie el dibujo.",
+        "start": 0,
+        "duration": 32.958333333333336,
+        "end": 32.958333
+      },
+      {
+        "title": "Tres personas, tres pistas",
+        "label": "ESCUCHA Y RELACIONA",
+        "visual": "community",
+        "focus": "people",
+        "facts": [
+          "Lucas: ciudad y escuela",
+          "Sofía: campo y granja",
+          "Mateo: mar y playa"
+        ],
+        "narration": "Escucha las descripciones de la actividad. Lucas dice que vive en la ciudad y cerca de una escuela. Sofía vive en el campo y cerca de una granja. Mateo vive cerca del mar y su casa está cerca de la playa. Debes relacionarlos con las imágenes correspondientes. La palabra clave no es solo el nombre del personaje: es la pista que da sobre su comunidad.",
+        "start": 32.958333,
+        "duration": 30.25,
+        "end": 63.208333
+      },
+      {
+        "title": "Una pista no es una regla universal",
+        "label": "PIENSA UN POCO MÁS",
+        "visual": "community",
+        "focus": "reason",
+        "facts": [
+          "Usa lo que dice cada personaje",
+          "También hay escuelas en el campo",
+          "Una ciudad puede estar en la costa"
+        ],
+        "narration": "Vamos un paso más allá. Que Lucas mencione una escuela no significa que solo haya escuelas en las ciudades. También las hay en el campo. Y una ciudad puede estar cerca del mar. Para resolver esta hoja usamos la descripción completa de cada personaje. Aprender con pistas también significa reconocer sus límites: una característica aislada no siempre basta para clasificar un lugar.",
+        "start": 63.208333,
+        "duration": 32.666666666666664,
+        "end": 95.875
+      },
+      {
+        "title": "El letrero cuenta otra historia",
+        "label": "LEE LA EVIDENCIA",
+        "visual": "address",
+        "focus": "sign",
+        "facts": [
+          "Estación de bomberos",
+          "La hoja pregunta por una escuela",
+          "Primero: comprueba la imagen"
+        ],
+        "narration": "Mira ahora el letrero de la última imagen. Hay una inconsistencia en el ejercicio: las preguntas hablan de una escuela, pero la fotografía muestra una estación de bomberos. Podemos señalarlo con tranquilidad y leer los datos reales del cartel. Un buen detective no cambia lo que ve para que encaje con una pregunta. Revisa la evidencia y explica la diferencia.",
+        "start": 95.875,
+        "duration": 29.75,
+        "end": 125.625
+      },
+      {
+        "title": "Cada dato tiene su lugar",
+        "label": "DESARMA LA DIRECCIÓN",
+        "visual": "address",
+        "focus": "parts",
+        "facts": [
+          "Calle 72 · No. 38–150",
+          "Barrio El Recreo",
+          "Barranquilla, Colombia"
+        ],
+        "narration": "La dirección se puede dividir en partes. Calle setenta y dos identifica la calle. Número treinta y ocho, guion, ciento cincuenta identifica la numeración del inmueble. El barrio es El Recreo. La ciudad es Barranquilla y el país, Colombia. Si preguntan por el número de la calle, corresponde setenta y dos, no treinta y ocho, ciento cincuenta. Leer cada etiqueta evita mezclar datos diferentes.",
+        "start": 125.625,
+        "duration": 35.708333333333336,
+        "end": 161.333333
+      },
+      {
+        "title": "Observa, conecta y explica",
+        "label": "RESUMEN · MISIÓN FINAL",
+        "visual": "community",
+        "focus": "services",
+        "facts": [
+          "Lugar → función",
+          "Descripción → evidencia",
+          "Dirección → partes diferentes"
+        ],
+        "narration": "Terminamos con tres hábitos de investigador: observa con atención, conecta las pistas y explica tu respuesta. Ya puedes relacionar lugares con sus funciones, interpretar las descripciones de Lucas, Sofía y Mateo y separar los datos de una dirección. Después de estos retos podrás hacer una misión final con preguntas de los cinco capítulos. Si una respuesta necesita revisión, tendrás una pista y otra oportunidad.",
+        "start": 161.333333,
+        "duration": 33.958333333333336,
+        "end": 195.291667
+      }
+    ],
+    "checkpoint": {
+      "prompt": "Sofía dice: «Vivo en el campo y cerca de una granja». ¿Qué imagen encaja mejor?",
+      "options": [
+        "Un paisaje con granja",
+        "Una terminal aérea",
+        "Un puerto con barcos"
+      ],
+      "answer": 0,
+      "hint": "Busca dos pistas que coincidan con su descripción.",
+      "explanation": "La granja y el paisaje rural coinciden con lo que cuenta Sofía."
+    },
+    "quiz": [
+      {
+        "prompt": "Necesitas consultar libros para investigar. ¿Qué lugar elegirías?",
+        "options": [
+          "El restaurante",
+          "La biblioteca",
+          "El aeropuerto"
+        ],
+        "answer": 1,
+        "hint": "Piensa en el lugar cuya función incluye leer y consultar recursos.",
+        "explanation": "La biblioteca ofrece libros y recursos útiles para investigar."
+      },
+      {
+        "prompt": "En «Calle 72 No. 38–150», ¿cuál es el número de la calle?",
+        "options": [
+          "38–150",
+          "12",
+          "72"
+        ],
+        "answer": 2,
+        "hint": "Lee el número que aparece inmediatamente después de la palabra Calle.",
+        "explanation": "La calle es la 72. El 38–150 corresponde a la numeración del inmueble."
+      },
+      {
+        "prompt": "¿Qué barrio y ciudad aparecen en el letrero?",
+        "options": [
+          "El Recreo, Barranquilla",
+          "Sur, Santo Domingo",
+          "La Playa, Santiago"
+        ],
+        "answer": 0,
+        "hint": "Sur aparece en el nombre de la estación; busca la línea que empieza por Barrio.",
+        "explanation": "El letrero dice Barrio El Recreo y Barranquilla, Colombia. La imagen es de una estación de bomberos."
+      }
+    ],
+    "duration": 195.291667,
+    "checkpointAt": 95.875
+  }
+]
