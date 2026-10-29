@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.render/
+entrega/
+verification/
+scripts/
+content/
+tests/
+public/media/*.mp3
