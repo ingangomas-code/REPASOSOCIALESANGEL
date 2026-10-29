@@ -1,0 +1,52 @@
+{
+  "science": [
+    {
+      "id": "science-living",
+      "seconds": 111.583333,
+      "video": "h264",
+      "audio": "aac",
+      "decode": "passed",
+      "sha256": "c962629a799036f83312e88dc6e9606b8fb65d3b851db1da36f4ec88af111198"
+    },
+    {
+      "id": "science-cycles",
+      "seconds": 123.083333,
+      "video": "h264",
+      "audio": "aac",
+      "decode": "passed",
+      "sha256": "73d8966df7fa8c13f6a44fc90038bf16f9d120b0c5b1f3d5be74f6e1c63fb928"
+    },
+    {
+      "id": "science-offspring",
+      "seconds": 117.0,
+      "video": "h264",
+      "audio": "aac",
+      "decode": "passed",
+      "sha256": "dcd493e34f9829010504bb04144513ce3e33e14ec952a2ee8d42dba72336b9d1"
+    },
+    {
+      "id": "science-care",
+      "seconds": 118.333333,
+      "video": "h264",
+      "audio": "aac",
+      "decode": "passed",
+      "sha256": "722a8c88ba7eab635ff69513f5306d990a8f784b26c4c78672e58a3aea1256d5"
+    },
+    {
+      "id": "science-signals",
+      "seconds": 120.458333,
+      "video": "h264",
+      "audio": "aac",
+      "decode": "passed",
+      "sha256": "e8dcac333aa48cdabdf9da469ebf64f816ecf6b9098de34c1d3a0c327276560e"
+    }
+  ],
+  "sociales": {
+    "orientacion": "unchanged from Antigravity d9e1c5c",
+    "hemisferios": "unchanged from Antigravity d9e1c5c",
+    "isla": "unchanged from Antigravity d9e1c5c",
+    "provincias": "unchanged from Antigravity d9e1c5c",
+    "comunidad": "unchanged from Antigravity d9e1c5c"
+  },
+  "paid_generation_usd": 0
+}

@@ -1,5 +1,6 @@
 import {bootstrap, MetaFile, ObjectMetaField, Renderer, RendererResult, Vector2, type Exporter, type Project, type RendererSettings} from '@motion-canvas/core';
 import {chapterScene} from './scenes';
+import {scienceScene} from './science-scenes';
 import type {Geography,Lesson} from './types';
 
 const status=document.querySelector<HTMLElement>('#status')!;
@@ -23,14 +24,16 @@ class LocalVideoExporter implements Exporter {
   async stop(result:RendererResult){if(result!==RendererResult.Success)throw new Error('Render failed');await post('finish','{}');}
 }
 async function main(){
-  const lessons:Lesson[]=await (await fetch('/lessons.json')).json();
+  const science=new URLSearchParams(location.search).get('notebook')==='science';
+  const mediaBase=science?'/science':'';
+  const lessons:Lesson[]=await (await fetch(`${mediaBase}/lessons.json`)).json();
   const geography:Geography[]=await (await fetch('/maps.json')).json();
   const wanted=new URLSearchParams(location.search).get('chapter');
   for(const lesson of lessons.filter(l=>!wanted||l.id===wanted)){
-    const existing=await fetch(`/media/${lesson.id}.mp4`,{method:'HEAD'});
+    const existing=await fetch(`${mediaBase}/media/${lesson.id}.mp4`,{method:'HEAD'});
     if(existing.ok&&existing.headers.get('content-type')?.includes('video')){log.textContent+=`✓ ${lesson.id}.mp4 ya exportado; conservado\n`;continue;}
     const plugin={name:'sociales-render',exporters:()=>[LocalVideoExporter]};
-    const project=bootstrap(lesson.id,{core:'3.17.2',two:'3.17.2',ui:null,vitePlugin:null},[plugin],{scenes:[chapterScene(lesson,geography)]},new MetaFile(lesson.id,false),new MetaFile('settings',false));
+    const project=bootstrap(lesson.id,{core:'3.17.2',two:'3.17.2',ui:null,vitePlugin:null},[plugin],{scenes:[science?scienceScene(lesson):chapterScene(lesson,geography)]},new MetaFile(lesson.id,false),new MetaFile('settings',false));
     project.logger.onLogged.subscribe(entry=>{if(entry.level==='error'){log.textContent+=`ERROR: ${entry.message}\n`;console.error(entry);}});
     const renderer=new Renderer(project);
     let result:RendererResult|undefined;renderer.onFinished.subscribe(value=>result=value);

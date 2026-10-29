@@ -1,0 +1,1619 @@
+[
+  {
+    "id": "science-living",
+    "number": "01",
+    "title": "What makes something alive?",
+    "subtitle": "Living things, growth and life cycles",
+    "color": "#91edb7",
+    "sources": [
+      4,
+      7
+    ],
+    "exercises": [
+      "7624-living",
+      "7624-growth",
+      "7624-life-cycle",
+      "7624-true-false",
+      "7625-word-bank"
+    ],
+    "summary": [
+      "Living things grow and change. A rock or a chair is not alive.",
+      "A life cycle is the stages of growth and change in a living thing.",
+      "Plants have life cycles too. An apple tree can begin as a seed."
+    ],
+    "vocabulary": {
+      "living thing": "ser vivo",
+      "grow": "crecer",
+      "change": "cambiar",
+      "life cycle": "ciclo de vida",
+      "seed": "semilla"
+    },
+    "beats": [
+      {
+        "title": "Look for evidence",
+        "label": "THE QUESTION",
+        "visual": "living",
+        "focus": "compare",
+        "facts": [
+          "Butterfly: living",
+          "Rock: nonliving",
+          "Use evidence, not guessing"
+        ],
+        "narration": "Look at a butterfly, a rock and a chair. Which one is a living thing? The butterfly is alive. The rock and the chair are not. A living thing grows and changes during its life. Moving by itself is not our only clue: a plant is alive even though it cannot walk across the room. Science begins with evidence.",
+        "start": 0,
+        "end": 22.666667,
+        "duration": 22.666666666666668,
+        "voiceDuration": 21.6,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 2.95,
+            "text": "Look at a butterfly, a rock and a chair."
+          },
+          {
+            "offset": 3.0,
+            "duration": 2.025,
+            "text": "Which one is a living thing?"
+          },
+          {
+            "offset": 5.025,
+            "duration": 1.9875,
+            "text": "The butterfly is alive."
+          },
+          {
+            "offset": 7.0125,
+            "duration": 1.6875,
+            "text": "The rock and the chair are not."
+          },
+          {
+            "offset": 8.7,
+            "duration": 3.5125,
+            "text": "A living thing grows and changes during its life."
+          },
+          {
+            "offset": 12.2125,
+            "duration": 7.3,
+            "text": "Moving by itself is not our only clue: a plant is alive even though it cannot walk across the room."
+          },
+          {
+            "offset": 19.5125,
+            "duration": 2.0375,
+            "text": "Science begins with evidence."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Growing means changing",
+        "label": "NOTICE THE PATTERN",
+        "visual": "growing",
+        "focus": "horse",
+        "facts": [
+          "Young animals grow",
+          "Adults can have offspring",
+          "Different stages, same kind"
+        ],
+        "narration": "Imagine looking at photographs of a horse at different ages. The young horse is smaller. As it grows, it becomes an adult horse. It does not become a different kind of animal. Living things do not stay babies forever. Growth and change help us describe the stages of their lives. Can you explain what changed and what stayed the same?",
+        "start": 22.666667,
+        "end": 44.125,
+        "duration": 21.458333333333332,
+        "voiceDuration": 20.376,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 3.75,
+            "text": "Imagine looking at photographs of a horse at different ages."
+          },
+          {
+            "offset": 3.8,
+            "duration": 1.8875,
+            "text": "The young horse is smaller."
+          },
+          {
+            "offset": 5.6875,
+            "duration": 2.9625,
+            "text": "As it grows, it becomes an adult horse."
+          },
+          {
+            "offset": 8.65,
+            "duration": 2.05,
+            "text": "It does not become a different kind of animal."
+          },
+          {
+            "offset": 10.7,
+            "duration": 2.75,
+            "text": "Living things do not stay babies forever."
+          },
+          {
+            "offset": 13.45,
+            "duration": 3.9,
+            "text": "Growth and change help us describe the stages of their lives."
+          },
+          {
+            "offset": 17.35,
+            "duration": 2.975,
+            "text": "Can you explain what changed and what stayed the same?"
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "A life cycle tells a story",
+        "label": "CONNECT THE STAGES",
+        "visual": "plant-cycle",
+        "focus": "all",
+        "facts": [
+          "Stages of growth and change",
+          "Animals have life cycles",
+          "Plants have life cycles too"
+        ],
+        "narration": "A life cycle describes the stages of growth and change in a living thing. It is not a sleeping place or a type of food. Animals have life cycles, and plants do too. An apple tree can grow from a seed into a young plant and then a mature tree. That tree can produce seeds, so the cycle can begin again.",
+        "start": 44.125,
+        "end": 64.916667,
+        "duration": 20.791666666666668,
+        "voiceDuration": 19.704,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 5.05,
+            "text": "A life cycle describes the stages of growth and change in a living thing."
+          },
+          {
+            "offset": 5.1,
+            "duration": 2.625,
+            "text": "It is not a sleeping place or a type of food."
+          },
+          {
+            "offset": 7.725,
+            "duration": 3.3125,
+            "text": "Animals have life cycles, and plants do too."
+          },
+          {
+            "offset": 11.0375,
+            "duration": 4.8375,
+            "text": "An apple tree can grow from a seed into a young plant and then a mature tree."
+          },
+          {
+            "offset": 15.875,
+            "duration": 3.7625,
+            "text": "That tree can produce seeds, so the cycle can begin again."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Same idea, different journeys",
+        "label": "COMPARE CAREFULLY",
+        "visual": "cycle-compare",
+        "focus": "all",
+        "facts": [
+          "Living things change",
+          "Life cycles can differ",
+          "A frog is not a tiger"
+        ],
+        "narration": "All living things have life cycles, but their stages are not exactly the same. A tiger cub grows into an adult tiger. A frog in the life cycle shown on your worksheet passes through a tadpole stage. A tiger does not. When you read a sentence with the word all or exactly, check whether the evidence really supports such a strong claim.",
+        "start": 64.916667,
+        "end": 87.208333,
+        "duration": 22.291666666666668,
+        "voiceDuration": 21.216,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 5.0625,
+            "text": "All living things have life cycles, but their stages are not exactly the same."
+          },
+          {
+            "offset": 5.1125,
+            "duration": 3.05,
+            "text": "A tiger cub grows into an adult tiger."
+          },
+          {
+            "offset": 8.1625,
+            "duration": 4.6875,
+            "text": "A frog in the life cycle shown on your worksheet passes through a tadpole stage."
+          },
+          {
+            "offset": 12.85,
+            "duration": 1.275,
+            "text": "A tiger does not."
+          },
+          {
+            "offset": 14.125,
+            "duration": 7.0375,
+            "text": "When you read a sentence with the word all or exactly, check whether the evidence really supports such a strong claim."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Explain how you know",
+        "label": "RECAP AND INVESTIGATE",
+        "visual": "living",
+        "focus": "summary",
+        "facts": [
+          "Identify a living thing",
+          "Describe growth and change",
+          "Explain a life cycle"
+        ],
+        "narration": "Here is your science toolkit: identify a living thing, describe how it grows and changes, and connect the stages of its life cycle. Remember that a seed can grow into an apple tree. Now investigate the questions. Choose an answer, then explain the clue that helped you. Being a good scientist means understanding your choice, not just remembering a letter.",
+        "start": 87.208333,
+        "end": 111.583333,
+        "duration": 24.375,
+        "voiceDuration": 23.304,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 9.15,
+            "text": "Here is your science toolkit: identify a living thing, describe how it grows and changes, and connect the stages of its life cycle."
+          },
+          {
+            "offset": 9.2,
+            "duration": 3.225,
+            "text": "Remember that a seed can grow into an apple tree."
+          },
+          {
+            "offset": 12.425,
+            "duration": 2.025,
+            "text": "Now investigate the questions."
+          },
+          {
+            "offset": 14.45,
+            "duration": 3.35,
+            "text": "Choose an answer, then explain the clue that helped you."
+          },
+          {
+            "offset": 17.8,
+            "duration": 5.4375,
+            "text": "Being a good scientist means understanding your choice, not just remembering a letter."
+          }
+        ],
+        "captionTiming": "measured"
+      }
+    ],
+    "checkpoint": {
+      "prompt": "A seed grows into an apple tree. What does this show?",
+      "options": [
+        "Plants have life cycles",
+        "Only animals are living things",
+        "Trees never change"
+      ],
+      "answer": 0,
+      "hint": "Think about growth and change in a plant.",
+      "explanation": "Plants are living things. The seed, young plant and mature tree are stages in a life cycle."
+    },
+    "quiz": [
+      {
+        "prompt": "Which one is a living thing?",
+        "options": [
+          "A rock",
+          "A butterfly",
+          "A chair"
+        ],
+        "answer": 1,
+        "hint": "Look for something that grows and changes as part of its own life.",
+        "explanation": "A butterfly is a living animal. A rock and a chair are nonliving."
+      },
+      {
+        "prompt": "What is a life cycle?",
+        "options": [
+          "An animal's sleeping place",
+          "The food an animal eats",
+          "The stages of growth and change in a living thing"
+        ],
+        "answer": 2,
+        "hint": "A cycle connects stages over a lifetime.",
+        "explanation": "A life cycle describes growth and change, not a home or food."
+      },
+      {
+        "prompt": "Someone says all animals have exactly the same life cycle. Which evidence challenges this?",
+        "options": [
+          "Frogs have a tadpole stage; tigers do not",
+          "A chair is smaller than a tree",
+          "A rock can roll"
+        ],
+        "answer": 0,
+        "hint": "Compare two living animals and their stages.",
+        "explanation": "The frog and tiger examples show that animal life cycles can have different stages."
+      }
+    ],
+    "duration": 111.583333,
+    "checkpointAt": 44.125
+  },
+  {
+    "id": "science-cycles",
+    "number": "02",
+    "title": "A surprising transformation",
+    "subtitle": "Frog and butterfly life cycles",
+    "color": "#8bd8ff",
+    "sources": [
+      4,
+      7,
+      5,
+      3,
+      2
+    ],
+    "exercises": [
+      "7624-tadpole",
+      "7624-caterpillar",
+      "7625-frog-order",
+      "7625-word-bank",
+      "7626-draw-two-stages",
+      "7627-match-frog-butterfly",
+      "7628-butterfly"
+    ],
+    "summary": [
+      "The worksheet frog cycle is eggs → tadpole → froglet → adult frog.",
+      "A butterfly develops through egg → caterpillar → chrysalis → adult butterfly.",
+      "A young animal can look very different from its adult form and still be the same kind of animal."
+    ],
+    "vocabulary": {
+      "egg": "huevo",
+      "tadpole": "renacuajo",
+      "froglet": "rana joven",
+      "caterpillar": "oruga",
+      "chrysalis": "crisálida"
+    },
+    "beats": [
+      {
+        "title": "Start with the eggs",
+        "label": "THE FROG INVESTIGATION",
+        "visual": "frog-cycle",
+        "focus": "eggs",
+        "facts": [
+          "Eggs come first",
+          "Then a tadpole hatches",
+          "The picture order matters"
+        ],
+        "narration": "The pictures on your frog worksheet are mixed up. Let us put them into order. First come the eggs. A tadpole hatches from an egg. In this life cycle, the tadpole is an early stage of the frog, not a baby tiger. Even if an answer has been circled on a worksheet, we must check it against what the animal actually does.",
+        "start": 0,
+        "end": 19.833333,
+        "duration": 19.833333333333332,
+        "voiceDuration": 18.768,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 2.6375,
+            "text": "The pictures on your frog worksheet are mixed up."
+          },
+          {
+            "offset": 2.6875,
+            "duration": 1.4875,
+            "text": "Let us put them into order."
+          },
+          {
+            "offset": 4.175,
+            "duration": 1.375,
+            "text": "First come the eggs."
+          },
+          {
+            "offset": 5.55,
+            "duration": 1.9875,
+            "text": "A tadpole hatches from an egg."
+          },
+          {
+            "offset": 7.5375,
+            "duration": 5.6,
+            "text": "In this life cycle, the tadpole is an early stage of the frog, not a baby tiger."
+          },
+          {
+            "offset": 13.1375,
+            "duration": 5.5625,
+            "text": "Even if an answer has been circled on a worksheet, we must check it against what the animal actually does."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "From tail to legs",
+        "label": "FOLLOW THE CHANGE",
+        "visual": "frog-cycle",
+        "focus": "froglet",
+        "facts": [
+          "1 Eggs · 2 Tadpole",
+          "3 Froglet · 4 Adult frog",
+          "The froglet still has a tail"
+        ],
+        "narration": "A tadpole has a tail and looks different from an adult frog. As it develops legs and its tail becomes shorter, it reaches the froglet stage. The froglet in your picture has legs and still has a small tail. Then it becomes an adult frog. Our four stages are eggs, tadpole, froglet and adult frog. The young frog does not turn into a new kind of animal.",
+        "start": 19.833333,
+        "end": 44.458333,
+        "duration": 24.625,
+        "voiceDuration": 23.568,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 3.675,
+            "text": "A tadpole has a tail and looks different from an adult frog."
+          },
+          {
+            "offset": 3.725,
+            "duration": 5.9125,
+            "text": "As it develops legs and its tail becomes shorter, it reaches the froglet stage."
+          },
+          {
+            "offset": 9.6375,
+            "duration": 4.275,
+            "text": "The froglet in your picture has legs and still has a small tail."
+          },
+          {
+            "offset": 13.9125,
+            "duration": 1.775,
+            "text": "Then it becomes an adult frog."
+          },
+          {
+            "offset": 15.6875,
+            "duration": 4.525,
+            "text": "Our four stages are eggs, tadpole, froglet and adult frog."
+          },
+          {
+            "offset": 20.2125,
+            "duration": 3.3,
+            "text": "The young frog does not turn into a new kind of animal."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "A caterpillar is not a tiny butterfly",
+        "label": "A SECOND LIFE CYCLE",
+        "visual": "butterfly-cycle",
+        "focus": "caterpillar",
+        "facts": [
+          "Egg → Caterpillar",
+          "Chrysalis → Adult butterfly",
+          "Different-looking stages"
+        ],
+        "narration": "A butterfly begins life as an egg. The egg hatches into a caterpillar. The caterpillar grows, then develops into a chrysalis, also called the pupa stage. The change continues inside, and an adult butterfly emerges. The caterpillar looks different from the adult butterfly. It is not a miniature butterfly with tiny wings. It is the young stage of that same kind of animal.",
+        "start": 44.458333,
+        "end": 70.458333,
+        "duration": 26.0,
+        "voiceDuration": 24.936,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 3.0375,
+            "text": "A butterfly begins life as an egg."
+          },
+          {
+            "offset": 3.0875,
+            "duration": 2.425,
+            "text": "The egg hatches into a caterpillar."
+          },
+          {
+            "offset": 5.5125,
+            "duration": 5.6375,
+            "text": "The caterpillar grows, then develops into a chrysalis, also called the pupa stage."
+          },
+          {
+            "offset": 11.15,
+            "duration": 4.55,
+            "text": "The change continues inside, and an adult butterfly emerges."
+          },
+          {
+            "offset": 15.7,
+            "duration": 2.9625,
+            "text": "The caterpillar looks different from the adult butterfly."
+          },
+          {
+            "offset": 18.6625,
+            "duration": 3.3625,
+            "text": "It is not a miniature butterfly with tiny wings."
+          },
+          {
+            "offset": 22.025,
+            "duration": 2.8625,
+            "text": "It is the young stage of that same kind of animal."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Different does not mean unrelated",
+        "label": "COMPARE THE EVIDENCE",
+        "visual": "stage-compare",
+        "focus": "butterfly",
+        "facts": [
+          "A tadpole differs from a frog",
+          "A caterpillar differs from a butterfly",
+          "Use the whole life cycle"
+        ],
+        "narration": "Compare a caterpillar with an adult butterfly, or a tadpole with an adult frog. Their shapes and ways of moving are different. Yet the life cycle connects them. A picture alone may surprise you, so use the sequence as evidence. On your worksheet you may draw any two butterfly stages and label them correctly. There are four stages in the full cycle, even though the task asks you to draw only two.",
+        "start": 70.458333,
+        "end": 96.833333,
+        "duration": 26.375,
+        "voiceDuration": 25.296,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 4.725,
+            "text": "Compare a caterpillar with an adult butterfly, or a tadpole with an adult frog."
+          },
+          {
+            "offset": 4.775,
+            "duration": 2.5875,
+            "text": "Their shapes and ways of moving are different."
+          },
+          {
+            "offset": 7.3625,
+            "duration": 2.1125,
+            "text": "Yet the life cycle connects them."
+          },
+          {
+            "offset": 9.475,
+            "duration": 4.875,
+            "text": "A picture alone may surprise you, so use the sequence as evidence."
+          },
+          {
+            "offset": 14.35,
+            "duration": 5.1125,
+            "text": "On your worksheet you may draw any two butterfly stages and label them correctly."
+          },
+          {
+            "offset": 19.4625,
+            "duration": 5.7625,
+            "text": "There are four stages in the full cycle, even though the task asks you to draw only two."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Build the sequence yourself",
+        "label": "RECAP AND INVESTIGATE",
+        "visual": "butterfly-cycle",
+        "focus": "all",
+        "facts": [
+          "Order the frog stages",
+          "Name the butterfly stages",
+          "Draw and label two stages"
+        ],
+        "narration": "Try saying the frog sequence without looking: eggs, tadpole, froglet, adult frog. Now try the butterfly sequence: egg, caterpillar, chrysalis, adult butterfly. In the activity you can rebuild both cycles and draw two stages. Take the time you need to think. We keep the explanation moving, but you control the pause button when you want to examine a change.",
+        "start": 96.833333,
+        "end": 123.041667,
+        "duration": 26.208333333333332,
+        "voiceDuration": 25.128,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 6.5,
+            "text": "Try saying the frog sequence without looking: eggs, tadpole, froglet, adult frog."
+          },
+          {
+            "offset": 6.55,
+            "duration": 6.15,
+            "text": "Now try the butterfly sequence: egg, caterpillar, chrysalis, adult butterfly."
+          },
+          {
+            "offset": 12.7,
+            "duration": 5.2375,
+            "text": "In the activity you can rebuild both cycles and draw two stages."
+          },
+          {
+            "offset": 17.9375,
+            "duration": 1.675,
+            "text": "Take the time you need to think."
+          },
+          {
+            "offset": 19.6125,
+            "duration": 5.4625,
+            "text": "We keep the explanation moving, but you control the pause button when you want to examine a change."
+          }
+        ],
+        "captionTiming": "measured"
+      }
+    ],
+    "checkpoint": {
+      "prompt": "A young frog has legs and still has a small tail. Which worksheet stage is it?",
+      "options": [
+        "An egg",
+        "A froglet",
+        "An adult butterfly"
+      ],
+      "answer": 1,
+      "hint": "It comes after the tadpole and before the adult frog.",
+      "explanation": "It is a froglet. The worksheet picture shows both legs and a remaining tail."
+    },
+    "quiz": [
+      {
+        "prompt": "Which order matches the frog life cycle on your worksheet?",
+        "options": [
+          "Adult → egg → froglet → tadpole",
+          "Eggs → tadpole → froglet → adult frog",
+          "Tadpole → adult → egg → froglet"
+        ],
+        "answer": 1,
+        "hint": "Start with eggs and follow the development of legs.",
+        "explanation": "Eggs come first, followed by tadpole, froglet and adult frog."
+      },
+      {
+        "prompt": "Which animal has a caterpillar stage?",
+        "options": [
+          "A horse",
+          "A tiger",
+          "A butterfly"
+        ],
+        "answer": 2,
+        "hint": "Think about the stage before the chrysalis.",
+        "explanation": "A caterpillar is the larval stage of a butterfly."
+      },
+      {
+        "prompt": "The drawing task asks for TWO butterfly stages. Does the complete cycle have only two stages?",
+        "options": [
+          "No. It has four stages; the task asks us to choose two",
+          "Yes. Drawing two removes the other stages",
+          "Yes. Egg and adult are the only stages"
+        ],
+        "answer": 0,
+        "hint": "Separate the instructions for the drawing from the scientific sequence.",
+        "explanation": "The full cycle has egg, caterpillar, chrysalis and adult. You can choose two of those to draw."
+      }
+    ],
+    "duration": 123.041667,
+    "checkpointAt": 44.458333
+  },
+  {
+    "id": "science-offspring",
+    "number": "03",
+    "title": "Same family, different stages",
+    "subtitle": "Parents, offspring and baby animal names",
+    "color": "#c6b6ff",
+    "sources": [
+      5,
+      3,
+      2
+    ],
+    "exercises": [
+      "7626-offspring-parent",
+      "7626-cub-egg-smaller",
+      "7627-adult-baby-matching",
+      "7627-word-bank",
+      "7627-short-answers",
+      "7628-monkey-horse-duck"
+    ],
+    "summary": [
+      "An offspring is a young living thing produced by a parent. A parent is an adult that has offspring.",
+      "Horse → foal; sheep → lamb; duck → duckling; tiger → cub.",
+      "Baby animals are usually smaller. Similar does not mean exactly the same, and looking different does not mean a different kind of animal."
+    ],
+    "vocabulary": {
+      "parent": "progenitor: madre o padre",
+      "offspring": "cría o descendiente",
+      "foal": "potro",
+      "lamb": "cordero",
+      "duckling": "patito",
+      "cub": "cachorro de ciertos animales"
+    },
+    "beats": [
+      {
+        "title": "Two useful science words",
+        "label": "MEET THE VOCABULARY",
+        "visual": "growing",
+        "focus": "horse",
+        "facts": [
+          "Parent: an adult with offspring",
+          "Offspring: its young",
+          "Young → Adult"
+        ],
+        "narration": "An offspring is a young living thing produced by a parent. In these activities, we are mainly talking about baby animals. A parent is an adult that has offspring. The words describe a relationship: this young animal is the offspring of that adult. As a baby grows, it becomes an adult. It does not remain a baby forever or become a different kind of animal.",
+        "start": 0,
+        "end": 24.333333,
+        "duration": 24.333333333333332,
+        "voiceDuration": 23.256,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 4.025,
+            "text": "An offspring is a young living thing produced by a parent."
+          },
+          {
+            "offset": 4.075,
+            "duration": 3.975,
+            "text": "In these activities, we are mainly talking about baby animals."
+          },
+          {
+            "offset": 8.05,
+            "duration": 2.7125,
+            "text": "A parent is an adult that has offspring."
+          },
+          {
+            "offset": 10.7625,
+            "duration": 5.5125,
+            "text": "The words describe a relationship: this young animal is the offspring of that adult."
+          },
+          {
+            "offset": 16.275,
+            "duration": 2.6625,
+            "text": "As a baby grows, it becomes an adult."
+          },
+          {
+            "offset": 18.9375,
+            "duration": 4.2625,
+            "text": "It does not remain a baby forever or become a different kind of animal."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "A foal, a lamb and a duckling",
+        "label": "MATCH THE NAMES",
+        "visual": "baby-names",
+        "focus": "farm",
+        "facts": [
+          "Horse → Foal",
+          "Sheep → Lamb",
+          "Duck → Duckling"
+        ],
+        "narration": "Some baby animals have special names. A baby horse is a foal. A baby sheep is a lamb. A baby duck is a duckling. Notice that a duckling and an adult duck are the same kind of animal, even though one is smaller. A duck hatches from an egg. A horse is born from its mother rather than hatching from an egg.",
+        "start": 24.333333,
+        "end": 45.041667,
+        "duration": 20.708333333333332,
+        "voiceDuration": 19.656,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 2.6,
+            "text": "Some baby animals have special names."
+          },
+          {
+            "offset": 2.65,
+            "duration": 1.9,
+            "text": "A baby horse is a foal."
+          },
+          {
+            "offset": 4.55,
+            "duration": 1.95,
+            "text": "A baby sheep is a lamb."
+          },
+          {
+            "offset": 6.5,
+            "duration": 1.825,
+            "text": "A baby duck is a duckling."
+          },
+          {
+            "offset": 8.325,
+            "duration": 5.575,
+            "text": "Notice that a duckling and an adult duck are the same kind of animal, even though one is smaller."
+          },
+          {
+            "offset": 13.9,
+            "duration": 1.6,
+            "text": "A duck hatches from an egg."
+          },
+          {
+            "offset": 15.5,
+            "duration": 4.1,
+            "text": "A horse is born from its mother rather than hatching from an egg."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "A cub is not a chick",
+        "label": "USE THE RIGHT PAIR",
+        "visual": "baby-names",
+        "focus": "wild",
+        "facts": [
+          "Tiger → Cub",
+          "Frog → Tadpole",
+          "Butterfly → Caterpillar"
+        ],
+        "narration": "A baby tiger is called a cub, not a chick or a tadpole. A chick is a young bird, while a tadpole belongs to the frog life cycle in your worksheet. A caterpillar belongs to the butterfly life cycle. In a matching activity, read both columns carefully. A familiar baby name is only correct when it is paired with the right adult animal.",
+        "start": 45.041667,
+        "end": 67.25,
+        "duration": 22.208333333333332,
+        "voiceDuration": 21.12,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 3.625,
+            "text": "A baby tiger is called a cub, not a chick or a tadpole."
+          },
+          {
+            "offset": 3.675,
+            "duration": 5.3875,
+            "text": "A chick is a young bird, while a tadpole belongs to the frog life cycle in your worksheet."
+          },
+          {
+            "offset": 9.0625,
+            "duration": 3.0375,
+            "text": "A caterpillar belongs to the butterfly life cycle."
+          },
+          {
+            "offset": 12.1,
+            "duration": 3.55,
+            "text": "In a matching activity, read both columns carefully."
+          },
+          {
+            "offset": 15.65,
+            "duration": 5.4,
+            "text": "A familiar baby name is only correct when it is paired with the right adult animal."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Similar is not identical",
+        "label": "COMPARE TWO FEATURES",
+        "visual": "growing",
+        "focus": "monkey",
+        "facts": [
+          "Baby monkey: usually smaller",
+          "Similar body features",
+          "Differences can include size"
+        ],
+        "narration": "A baby monkey often looks similar to its parent but is smaller. Similar means that some features are alike; it does not mean every feature is identical. For a short written answer, name a feature: a baby horse and its parent both have four legs. For a difference, you could say the baby horse is smaller. Use an example that matches the animals you are comparing.",
+        "start": 67.25,
+        "end": 91.666667,
+        "duration": 24.416666666666668,
+        "voiceDuration": 23.328,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 4.3625,
+            "text": "A baby monkey often looks similar to its parent but is smaller."
+          },
+          {
+            "offset": 4.4125,
+            "duration": 5.4625,
+            "text": "Similar means that some features are alike; it does not mean every feature is identical."
+          },
+          {
+            "offset": 9.875,
+            "duration": 6.3125,
+            "text": "For a short written answer, name a feature: a baby horse and its parent both have four legs."
+          },
+          {
+            "offset": 16.1875,
+            "duration": 3.675,
+            "text": "For a difference, you could say the baby horse is smaller."
+          },
+          {
+            "offset": 19.8625,
+            "duration": 3.4,
+            "text": "Use an example that matches the animals you are comparing."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Make a precise comparison",
+        "label": "RECAP AND INVESTIGATE",
+        "visual": "stage-compare",
+        "focus": "frog",
+        "facts": [
+          "Name the adult and its young",
+          "Give one similarity",
+          "Give one difference"
+        ],
+        "narration": "You now have two tools: special baby names and careful comparisons. Most baby animals are smaller than their parents. Some look similar, while others, like a tadpole and an adult frog, look very different. In the activity, match each adult to its young, then write one similarity and one difference. There can be more than one good written answer if you support it with evidence.",
+        "start": 91.666667,
+        "end": 117.0,
+        "duration": 25.333333333333332,
+        "voiceDuration": 24.264,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 4.7875,
+            "text": "You now have two tools: special baby names and careful comparisons."
+          },
+          {
+            "offset": 4.8375,
+            "duration": 2.8375,
+            "text": "Most baby animals are smaller than their parents."
+          },
+          {
+            "offset": 7.675,
+            "duration": 5.7125,
+            "text": "Some look similar, while others, like a tadpole and an adult frog, look very different."
+          },
+          {
+            "offset": 13.3875,
+            "duration": 6.3,
+            "text": "In the activity, match each adult to its young, then write one similarity and one difference."
+          },
+          {
+            "offset": 19.6875,
+            "duration": 4.525,
+            "text": "There can be more than one good written answer if you support it with evidence."
+          }
+        ],
+        "captionTiming": "measured"
+      }
+    ],
+    "checkpoint": {
+      "prompt": "A duckling is smaller than an adult duck. Are they different kinds of animal?",
+      "options": [
+        "Yes, because their sizes differ",
+        "No. They are both ducks",
+        "Yes, because ducklings are frogs"
+      ],
+      "answer": 1,
+      "hint": "Age and size can change while the kind of animal stays the same.",
+      "explanation": "They are both ducks. Duckling names the young stage."
+    },
+    "quiz": [
+      {
+        "prompt": "What is a parent?",
+        "options": [
+          "An adult that has offspring",
+          "An animal's home",
+          "A type of food"
+        ],
+        "answer": 0,
+        "hint": "Parent and offspring describe a relationship.",
+        "explanation": "A parent is an adult that has offspring. The offspring are its young."
+      },
+      {
+        "prompt": "Which pair is correct?",
+        "options": [
+          "Horse → cub",
+          "Sheep → foal",
+          "Tiger → cub"
+        ],
+        "answer": 2,
+        "hint": "Remember which animal has a baby called a cub.",
+        "explanation": "A baby tiger is a cub. A baby horse is a foal, and a baby sheep is a lamb."
+      },
+      {
+        "prompt": "Which answer gives both a similarity and a difference between a foal and an adult horse?",
+        "options": [
+          "They are different kinds of animal",
+          "Both have four legs; the foal is smaller",
+          "Both are adults; neither grows"
+        ],
+        "answer": 1,
+        "hint": "Choose one shared feature and one feature that differs.",
+        "explanation": "Both have four legs, while the foal is smaller. This compares two features precisely."
+      }
+    ],
+    "duration": 117.0,
+    "checkpointAt": 45.041667
+  },
+  {
+    "id": "science-care",
+    "number": "04",
+    "title": "How do young animals survive?",
+    "subtitle": "Food, shelter and protection",
+    "color": "#ffd085",
+    "sources": [
+      2,
+      6,
+      1
+    ],
+    "exercises": [
+      "7628-parent-care",
+      "7628-food-shelter-hunt",
+      "7629-groups",
+      "7629-true-false",
+      "7629-word-bank",
+      "7630-yes-no"
+    ],
+    "summary": [
+      "Many animal parents help their offspring survive by providing food, shelter or protection.",
+      "Shelter is a safe place to live. Some animals also teach their young how to find food or hunt.",
+      "Animal parents do not all care for their offspring in exactly the same way."
+    ],
+    "vocabulary": {
+      "survive": "sobrevivir",
+      "food": "alimento",
+      "shelter": "refugio",
+      "protect": "proteger",
+      "hunt": "cazar",
+      "danger": "peligro"
+    },
+    "beats": [
+      {
+        "title": "Care has a purpose",
+        "label": "ASK WHY",
+        "visual": "needs",
+        "focus": "all",
+        "facts": [
+          "Food gives nourishment",
+          "Shelter provides a safe place",
+          "Protection reduces danger"
+        ],
+        "narration": "Why do many animal parents care for their offspring? Their care helps the young survive. Baby animals may need food, a safe place and protection from danger. Parents do not care for babies to stop them from growing. Instead, their actions support growth and survival. Look for the purpose of a behavior, not only what the animal appears to be doing.",
+        "start": 0,
+        "end": 23.5,
+        "duration": 23.5,
+        "voiceDuration": 22.416,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 2.775,
+            "text": "Why do many animal parents care for their offspring?"
+          },
+          {
+            "offset": 2.825,
+            "duration": 2.325,
+            "text": "Their care helps the young survive."
+          },
+          {
+            "offset": 5.15,
+            "duration": 5.0375,
+            "text": "Baby animals may need food, a safe place and protection from danger."
+          },
+          {
+            "offset": 10.1875,
+            "duration": 3.5375,
+            "text": "Parents do not care for babies to stop them from growing."
+          },
+          {
+            "offset": 13.725,
+            "duration": 3.9875,
+            "text": "Instead, their actions support growth and survival."
+          },
+          {
+            "offset": 17.7125,
+            "duration": 4.65,
+            "text": "Look for the purpose of a behavior, not only what the animal appears to be doing."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "A hungry chick needs food",
+        "label": "CONNECT NEED AND ACTION",
+        "visual": "feeding",
+        "focus": "bird",
+        "facts": [
+          "Hungry chicks need food",
+          "A parent bird can bring food",
+          "Some animals teach hunting"
+        ],
+        "narration": "A hungry chick needs food, not toys or rocks. Many parent birds bring food to their chicks. Other animals help their young find food, and some teach hunting skills. These are different ways to meet a similar need. When you answer a question about a hungry baby, connect the problem, hunger, with the helpful action, bringing or finding food.",
+        "start": 23.5,
+        "end": 46.75,
+        "duration": 23.25,
+        "voiceDuration": 22.176,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 3.4875,
+            "text": "A hungry chick needs food, not toys or rocks."
+          },
+          {
+            "offset": 3.5375,
+            "duration": 3.15,
+            "text": "Many parent birds bring food to their chicks."
+          },
+          {
+            "offset": 6.6875,
+            "duration": 4.5875,
+            "text": "Other animals help their young find food, and some teach hunting skills."
+          },
+          {
+            "offset": 11.275,
+            "duration": 3.0875,
+            "text": "These are different ways to meet a similar need."
+          },
+          {
+            "offset": 14.3625,
+            "duration": 7.7625,
+            "text": "When you answer a question about a hungry baby, connect the problem, hunger, with the helpful action, bringing or finding food."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "What is shelter?",
+        "label": "LOOK FOR A SAFE PLACE",
+        "visual": "shelter",
+        "focus": "rabbit",
+        "facts": [
+          "Shelter: a safe place to live",
+          "A bird can build a nest",
+          "A rabbit may dig a burrow"
+        ],
+        "narration": "Shelter is a safe place to live. A nest can provide shelter for young birds. A rabbit may dig a burrow, an underground shelter. Shelter is not something animals eat and not a sound they make. Different animals can use different kinds of shelter. Compare a nest and a burrow: they look different, but both can provide a protected place for young animals.",
+        "start": 46.75,
+        "end": 69.833333,
+        "duration": 23.083333333333332,
+        "voiceDuration": 22.032,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 2.1625,
+            "text": "Shelter is a safe place to live."
+          },
+          {
+            "offset": 2.2125,
+            "duration": 2.625,
+            "text": "A nest can provide shelter for young birds."
+          },
+          {
+            "offset": 4.8375,
+            "duration": 3.75,
+            "text": "A rabbit may dig a burrow, an underground shelter."
+          },
+          {
+            "offset": 8.5875,
+            "duration": 3.95,
+            "text": "Shelter is not something animals eat and not a sound they make."
+          },
+          {
+            "offset": 12.5375,
+            "duration": 2.675,
+            "text": "Different animals can use different kinds of shelter."
+          },
+          {
+            "offset": 15.2125,
+            "duration": 6.75,
+            "text": "Compare a nest and a burrow: they look different, but both can provide a protected place for young animals."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Protection can be teamwork",
+        "label": "CONNECT THE CLUES",
+        "visual": "protection",
+        "focus": "group",
+        "facts": [
+          "Parents can protect their young",
+          "Some animals live in groups",
+          "Not all care is the same"
+        ],
+        "narration": "Some animals live in groups that help protect their offspring. A lion parent can protect its cubs from danger. But we should not claim that every animal parent gives exactly the same care. Different animals have different behaviors, and some young receive little or no parental care. Your worksheet uses examples to show several ways that care can help young animals survive.",
+        "start": 69.833333,
+        "end": 94.791667,
+        "duration": 24.958333333333332,
+        "voiceDuration": 23.904,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 3.45,
+            "text": "Some animals live in groups that help protect their offspring."
+          },
+          {
+            "offset": 3.5,
+            "duration": 3.2875,
+            "text": "A lion parent can protect its cubs from danger."
+          },
+          {
+            "offset": 6.7875,
+            "duration": 4.675,
+            "text": "But we should not claim that every animal parent gives exactly the same care."
+          },
+          {
+            "offset": 11.4625,
+            "duration": 6.1875,
+            "text": "Different animals have different behaviors, and some young receive little or no parental care."
+          },
+          {
+            "offset": 17.65,
+            "duration": 6.2,
+            "text": "Your worksheet uses examples to show several ways that care can help young animals survive."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Explain the purpose",
+        "label": "RECAP AND INVESTIGATE",
+        "visual": "needs",
+        "focus": "all",
+        "facts": [
+          "Hunger → Food",
+          "Need a safe place → Shelter",
+          "Danger → Protection"
+        ],
+        "narration": "Try using because in an explanation. A bird brings food because its chicks need nourishment. A nest provides shelter because it gives the young a place to stay. A parent protects its baby because danger can cause harm. In the activity you will complete sentences with food, shelter, protect and danger. Choose the word that fits the meaning of the whole sentence.",
+        "start": 94.791667,
+        "end": 118.333333,
+        "duration": 23.541666666666668,
+        "voiceDuration": 22.464,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 2.525,
+            "text": "Try using because in an explanation."
+          },
+          {
+            "offset": 2.575,
+            "duration": 3.1125,
+            "text": "A bird brings food because its chicks need nourishment."
+          },
+          {
+            "offset": 5.6875,
+            "duration": 3.9,
+            "text": "A nest provides shelter because it gives the young a place to stay."
+          },
+          {
+            "offset": 9.5875,
+            "duration": 3.9125,
+            "text": "A parent protects its baby because danger can cause harm."
+          },
+          {
+            "offset": 13.5,
+            "duration": 5.6375,
+            "text": "In the activity you will complete sentences with food, shelter, protect and danger."
+          },
+          {
+            "offset": 19.1375,
+            "duration": 3.2625,
+            "text": "Choose the word that fits the meaning of the whole sentence."
+          }
+        ],
+        "captionTiming": "measured"
+      }
+    ],
+    "checkpoint": {
+      "prompt": "A bird brings food to a chick. What need is the parent helping to meet?",
+      "options": [
+        "The chick's need for food",
+        "The chick's need for a toy",
+        "The chick's need to stop growing"
+      ],
+      "answer": 0,
+      "hint": "Connect the action with the chick's hunger.",
+      "explanation": "Bringing food helps a hungry chick get nourishment and survive."
+    },
+    "quiz": [
+      {
+        "prompt": "What is shelter?",
+        "options": [
+          "A sound animals make",
+          "A safe place to live",
+          "A kind of food"
+        ],
+        "answer": 1,
+        "hint": "Think about what a nest or burrow provides.",
+        "explanation": "Shelter is a safe place to live. A nest and a burrow are different examples."
+      },
+      {
+        "prompt": "Why do some animals live in groups?",
+        "options": [
+          "To stay away from their babies",
+          "To stop growing",
+          "To help protect their offspring"
+        ],
+        "answer": 2,
+        "hint": "Look for a behavior that helps young survive.",
+        "explanation": "Group living can help protect young animals. It is one way some animals improve survival."
+      },
+      {
+        "prompt": "Two animal parents care for their young in different ways. What is the best conclusion?",
+        "options": [
+          "Different actions can help meet similar survival needs",
+          "Only one animal can be a parent",
+          "All parents must use exactly the same shelter"
+        ],
+        "answer": 0,
+        "hint": "Compare the purpose of the care, not just its appearance.",
+        "explanation": "Food, shelter and protection can be provided through different behaviors."
+      }
+    ],
+    "duration": 118.333333,
+    "checkpointAt": 46.75
+  },
+  {
+    "id": "science-signals",
+    "number": "05",
+    "title": "Messages that help babies",
+    "subtitle": "Animal behaviors and the final investigation",
+    "color": "#ffb8c9",
+    "sources": [
+      6,
+      1,
+      2
+    ],
+    "exercises": [
+      "7629-sounds-danger",
+      "7629-true-false",
+      "7630-animal-behavior-matching",
+      "7630-yes-no",
+      "7630-draw-care"
+    ],
+    "summary": [
+      "Bird → nest; rabbit → digging shelter; lion → protecting cubs; dolphin → sounds to communicate with its baby.",
+      "Some animal sounds communicate with young or warn them about danger.",
+      "Use evidence to explain how a behavior can help offspring survive."
+    ],
+    "vocabulary": {
+      "behavior": "comportamiento",
+      "communicate": "comunicarse",
+      "warn": "advertir",
+      "nest": "nido",
+      "burrow": "madriguera"
+    },
+    "beats": [
+      {
+        "title": "A sound can carry a message",
+        "label": "THE FINAL INVESTIGATION",
+        "visual": "sounds",
+        "focus": "dolphin",
+        "facts": [
+          "A behavior is something an animal does",
+          "Some sounds communicate",
+          "A message can help a baby"
+        ],
+        "narration": "A behavior is something an animal does. Making a sound can be a behavior that communicates a message. Dolphins use sounds to communicate, including with their young. Some animals also use sounds to warn their babies about danger. Not every sound has the same purpose. To explain a behavior, ask what is happening and how it could help the young animal.",
+        "start": 0,
+        "end": 23.5,
+        "duration": 23.5,
+        "voiceDuration": 22.44,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 2.7125,
+            "text": "A behavior is something an animal does."
+          },
+          {
+            "offset": 2.7625,
+            "duration": 3.9125,
+            "text": "Making a sound can be a behavior that communicates a message."
+          },
+          {
+            "offset": 6.675,
+            "duration": 4.225,
+            "text": "Dolphins use sounds to communicate, including with their young."
+          },
+          {
+            "offset": 10.9,
+            "duration": 4.0625,
+            "text": "Some animals also use sounds to warn their babies about danger."
+          },
+          {
+            "offset": 14.9625,
+            "duration": 2.85,
+            "text": "Not every sound has the same purpose."
+          },
+          {
+            "offset": 17.8125,
+            "duration": 4.5625,
+            "text": "To explain a behavior, ask what is happening and how it could help the young animal."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Four animals, four clues",
+        "label": "MATCH THE BEHAVIOR",
+        "visual": "behaviors",
+        "focus": "all",
+        "facts": [
+          "Bird: builds a nest",
+          "Rabbit: digs shelter",
+          "Lion: protects cubs"
+        ],
+        "narration": "Match the four worksheet animals to their examples of care. The bird builds a nest for its young. The rabbit digs holes that provide shelter. The lion protects its cubs from danger. The dolphin uses sounds to communicate with its baby. These matches describe the examples in your activity. They do not mean an animal can perform only one behavior.",
+        "start": 23.5,
+        "end": 46.666667,
+        "duration": 23.166666666666668,
+        "voiceDuration": 22.104,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 3.85,
+            "text": "Match the four worksheet animals to their examples of care."
+          },
+          {
+            "offset": 3.9,
+            "duration": 2.175,
+            "text": "The bird builds a nest for its young."
+          },
+          {
+            "offset": 6.075,
+            "duration": 2.9375,
+            "text": "The rabbit digs holes that provide shelter."
+          },
+          {
+            "offset": 9.0125,
+            "duration": 2.8375,
+            "text": "The lion protects its cubs from danger."
+          },
+          {
+            "offset": 11.85,
+            "duration": 3.6375,
+            "text": "The dolphin uses sounds to communicate with its baby."
+          },
+          {
+            "offset": 15.4875,
+            "duration": 3.2875,
+            "text": "These matches describe the examples in your activity."
+          },
+          {
+            "offset": 18.775,
+            "duration": 3.275,
+            "text": "They do not mean an animal can perform only one behavior."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Can parents help?",
+        "label": "REASON FROM EXAMPLES",
+        "visual": "feeding",
+        "focus": "bird",
+        "facts": [
+          "Can parents help find food? Yes",
+          "Can sounds warn of danger? Yes",
+          "Examples support the answer"
+        ],
+        "narration": "Can animal parents help their offspring find food? Yes. Can animals use sounds to warn their babies about danger? Yes. Now go beyond a yes answer. Give an example or explain the purpose. A warning can alert a young animal to danger, while bringing food meets hunger. An explanation connects the action to a need instead of simply repeating the question.",
+        "start": 46.666667,
+        "end": 70.458333,
+        "duration": 23.791666666666668,
+        "voiceDuration": 22.704,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 2.7375,
+            "text": "Can animal parents help their offspring find food?"
+          },
+          {
+            "offset": 2.7875,
+            "duration": 0.875,
+            "text": "Yes."
+          },
+          {
+            "offset": 3.6625,
+            "duration": 3.15,
+            "text": "Can animals use sounds to warn their babies about danger?"
+          },
+          {
+            "offset": 6.8125,
+            "duration": 0.8625,
+            "text": "Yes."
+          },
+          {
+            "offset": 7.675,
+            "duration": 1.9,
+            "text": "Now go beyond a yes answer."
+          },
+          {
+            "offset": 9.575,
+            "duration": 2.6,
+            "text": "Give an example or explain the purpose."
+          },
+          {
+            "offset": 12.175,
+            "duration": 5.3625,
+            "text": "A warning can alert a young animal to danger, while bringing food meets hunger."
+          },
+          {
+            "offset": 17.5375,
+            "duration": 5.1,
+            "text": "An explanation connects the action to a need instead of simply repeating the question."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Draw a behavior with a purpose",
+        "label": "SHOW WHAT YOU UNDERSTAND",
+        "visual": "protection",
+        "focus": "lion",
+        "facts": [
+          "Choose bird, rabbit, lion or dolphin",
+          "Show a parent and its young",
+          "Explain how the action helps"
+        ],
+        "narration": "Your last worksheet asks you to choose a bird, rabbit, lion or dolphin and draw a parent taking care of its baby. Make the behavior visible. You might show a bird bringing food or a lion protecting a cub. Add a label or a short sentence that explains how the action helps. We judge the scientific idea, not how perfectly you can draw an animal.",
+        "start": 70.458333,
+        "end": 92.875,
+        "duration": 22.416666666666668,
+        "voiceDuration": 21.336,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 7.225,
+            "text": "Your last worksheet asks you to choose a bird, rabbit, lion or dolphin and draw a parent taking care of its baby."
+          },
+          {
+            "offset": 7.275,
+            "duration": 1.725,
+            "text": "Make the behavior visible."
+          },
+          {
+            "offset": 9.0,
+            "duration": 4.05,
+            "text": "You might show a bird bringing food or a lion protecting a cub."
+          },
+          {
+            "offset": 13.05,
+            "duration": 3.7625,
+            "text": "Add a label or a short sentence that explains how the action helps."
+          },
+          {
+            "offset": 16.8125,
+            "duration": 4.4625,
+            "text": "We judge the scientific idea, not how perfectly you can draw an animal."
+          }
+        ],
+        "captionTiming": "measured"
+      },
+      {
+        "title": "Think like a scientist",
+        "label": "RECAP AND FINAL MISSION",
+        "visual": "behaviors",
+        "focus": "all",
+        "facts": [
+          "Observe carefully",
+          "Connect evidence and ideas",
+          "Explain your answer"
+        ],
+        "narration": "You have connected life cycles, parents and offspring, similarities and differences, and animal care. Now use those ideas together. In the final mission, read each question carefully and look for evidence. Remember that a tadpole belongs to the frog cycle, a caterpillar belongs to the butterfly cycle, and different behaviors can help young animals survive. You can pause, replay or use a word hint whenever you need one.",
+        "start": 92.875,
+        "end": 120.416667,
+        "duration": 27.541666666666668,
+        "voiceDuration": 26.472,
+        "sentences": [
+          {
+            "offset": 0.05,
+            "duration": 6.225,
+            "text": "You have connected life cycles, parents and offspring, similarities and differences, and animal care."
+          },
+          {
+            "offset": 6.275,
+            "duration": 2.0375,
+            "text": "Now use those ideas together."
+          },
+          {
+            "offset": 8.3125,
+            "duration": 4.75,
+            "text": "In the final mission, read each question carefully and look for evidence."
+          },
+          {
+            "offset": 13.0625,
+            "duration": 9.025,
+            "text": "Remember that a tadpole belongs to the frog cycle, a caterpillar belongs to the butterfly cycle, and different behaviors can help young animals survive."
+          },
+          {
+            "offset": 22.0875,
+            "duration": 4.325,
+            "text": "You can pause, replay or use a word hint whenever you need one."
+          }
+        ],
+        "captionTiming": "measured"
+      }
+    ],
+    "checkpoint": {
+      "prompt": "A dolphin makes sounds while interacting with its baby. Which worksheet behavior does this illustrate?",
+      "options": [
+        "Building a nest",
+        "Communicating with sounds",
+        "Growing into a horse"
+      ],
+      "answer": 1,
+      "hint": "Think about what a sound can carry from one animal to another.",
+      "explanation": "The worksheet pairs the dolphin with using sounds to communicate with its baby."
+    },
+    "quiz": [
+      {
+        "prompt": "Which animal is matched with digging holes to provide shelter?",
+        "options": [
+          "Rabbit",
+          "Dolphin",
+          "Butterfly"
+        ],
+        "answer": 0,
+        "hint": "Think about an underground burrow.",
+        "explanation": "The worksheet pairs the rabbit with digging holes that provide shelter."
+      },
+      {
+        "prompt": "Can some animals use sounds to warn their babies about danger?",
+        "options": [
+          "No, sounds never carry information",
+          "Yes, every sound always means danger",
+          "Yes, some sounds can be warnings"
+        ],
+        "answer": 2,
+        "hint": "The word some matters. Not every sound is a warning.",
+        "explanation": "Some animal sounds warn young about danger; other sounds have different purposes."
+      },
+      {
+        "prompt": "Which drawing best shows parental care and explains its purpose?",
+        "options": [
+          "A rock beside a chair",
+          "A bird bringing food to a chick, labeled Food helps the chick survive",
+          "A label saying all parents behave exactly the same"
+        ],
+        "answer": 1,
+        "hint": "Choose a parent, its offspring and an action connected to survival.",
+        "explanation": "The bird-and-chick drawing links the behavior to the young animal's need for food."
+      }
+    ],
+    "duration": 120.416667,
+    "checkpointAt": 46.666667
+  }
+]

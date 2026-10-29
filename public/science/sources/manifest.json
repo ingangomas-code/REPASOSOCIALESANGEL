@@ -1,0 +1,51 @@
+[
+  {
+    "image": 1,
+    "original_filename": "IMG_7630.JPG",
+    "sha256": "94119872b4171aacd3512e7355599a0aa22121a9208a990bcbcc93d8e02934b9",
+    "display_file": "hoja-1.jpg",
+    "identity_header_removed": false
+  },
+  {
+    "image": 2,
+    "original_filename": "IMG_7628.JPG",
+    "sha256": "1b107e96f441560be86349b8de12ebff4e1d5fe750f0b788b8c05046432b3979",
+    "display_file": "hoja-2.jpg",
+    "identity_header_removed": false
+  },
+  {
+    "image": 3,
+    "original_filename": "IMG_7627.JPG",
+    "sha256": "3666759e6d838f15efc40d65866ee21f59b09c6ca2b25e130e5d3a107fc8eef5",
+    "display_file": "hoja-3.jpg",
+    "identity_header_removed": false
+  },
+  {
+    "image": 4,
+    "original_filename": "IMG_7624.JPG",
+    "sha256": "44f2757bba91e629438563dbe58bc6a7eec0b035da1a07d7b3067acde034f9cf",
+    "display_file": "hoja-4.jpg",
+    "identity_header_removed": true
+  },
+  {
+    "image": 5,
+    "original_filename": "IMG_7626.JPG",
+    "sha256": "16fc41a81e4b63e54ebda7ff8a36fae661e31034bfa9b39edd47ef45210dd765",
+    "display_file": "hoja-5.jpg",
+    "identity_header_removed": false
+  },
+  {
+    "image": 6,
+    "original_filename": "IMG_7629.JPG",
+    "sha256": "7e4394657f7d5671b6d1015a9a1991c691ac56af9ceebd820f84d8c7166c7602",
+    "display_file": "hoja-6.jpg",
+    "identity_header_removed": false
+  },
+  {
+    "image": 7,
+    "original_filename": "IMG_7625.JPG",
+    "sha256": "73d5e07e63891c3bee26ac2f2b9c3a08442187491979079fcd3555730739c01a",
+    "display_file": "hoja-7.jpg",
+    "identity_header_removed": false
+  }
+]

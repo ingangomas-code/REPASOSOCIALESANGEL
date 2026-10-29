@@ -1,0 +1,290 @@
+{
+  "content/lessons.json": {
+    "mtime": 1793232826.8600483,
+    "seen": 1793293678.536077,
+    "ast_hash": "6ec3b3c1266f1448afb497184db96efb",
+    "semantic_hash": ""
+  },
+  "content/timed-lessons.json": {
+    "mtime": 1793235947.2665112,
+    "seen": 1793293678.536077,
+    "ast_hash": "8eefff8e5e2100effe1b3be17ac74327",
+    "semantic_hash": ""
+  },
+  "package.json": {
+    "mtime": 1793293665.5516467,
+    "seen": 1793293678.536077,
+    "ast_hash": "54c467f6928c47a6574cf6d4e3242a8d",
+    "semantic_hash": ""
+  },
+  "public/lessons.json": {
+    "mtime": 1793235947.2643535,
+    "seen": 1793293678.536077,
+    "ast_hash": "8eefff8e5e2100effe1b3be17ac74327",
+    "semantic_hash": ""
+  },
+  "public/production.json": {
+    "mtime": 1793235947.2680943,
+    "seen": 1793293678.536077,
+    "ast_hash": "c596353a5ef0ca6b0ee5c1e0b740c877",
+    "semantic_hash": ""
+  },
+  "scripts/finalize_graph.py": {
+    "mtime": 1793293515.8881745,
+    "seen": 1793293678.536077,
+    "ast_hash": "84cc547ae81c81092fe766f21c9fb629",
+    "semantic_hash": ""
+  },
+  "scripts/graphify.mjs": {
+    "mtime": 1793293515.8881745,
+    "seen": 1793293678.536077,
+    "ast_hash": "a3e5edc19860ac7714e15851668693f2",
+    "semantic_hash": ""
+  },
+  "scripts/package_delivery.py": {
+    "mtime": 1793233396.9490442,
+    "seen": 1793293678.536077,
+    "ast_hash": "f0602440a76633c2d1908c553e791d2d",
+    "semantic_hash": ""
+  },
+  "scripts/portable.mjs": {
+    "mtime": 1793295741.3503344,
+    "seen": 1793296562.484648,
+    "ast_hash": "bce10354994cd3898d0d3636124bee6e",
+    "semantic_hash": ""
+  },
+  "scripts/prepare.py": {
+    "mtime": 1793235984.4171853,
+    "seen": 1793293678.536077,
+    "ast_hash": "87fc832993b4bcb95f123d07eb9ef15d",
+    "semantic_hash": ""
+  },
+  "scripts/verify_media.py": {
+    "mtime": 1793233460.2277093,
+    "seen": 1793293678.536077,
+    "ast_hash": "5356072fd2899e8cbff4e1fc5251a9c0",
+    "semantic_hash": ""
+  },
+  "src/app.ts": {
+    "mtime": 1793296851.484758,
+    "seen": 1793296873.1408713,
+    "ast_hash": "e27ba4c848b9e2419e656ea9ba80446e",
+    "semantic_hash": ""
+  },
+  "src/maps.ts": {
+    "mtime": 1793233396.9480429,
+    "seen": 1793293678.536077,
+    "ast_hash": "224c7118086dd7f04a81a685e53c57c1",
+    "semantic_hash": ""
+  },
+  "src/render.ts": {
+    "mtime": 1793294886.4654195,
+    "seen": 1793296562.484648,
+    "ast_hash": "187b655bda23a01747aeb0ec51d1fa02",
+    "semantic_hash": ""
+  },
+  "src/scenes.ts": {
+    "mtime": 1793233715.6529696,
+    "seen": 1793293678.536077,
+    "ast_hash": "9641cafc2d03e01b9fd7c5ac23ef6f3d",
+    "semantic_hash": ""
+  },
+  "src/state.d.mts": {
+    "mtime": 1793233130.3369143,
+    "seen": 1793293678.536077,
+    "ast_hash": "6bb56f5be29e207d08485f9ba3bb2344",
+    "semantic_hash": ""
+  },
+  "src/state.mjs": {
+    "mtime": 1793235984.515525,
+    "seen": 1793293678.536077,
+    "ast_hash": "d03186198ab92e8b1787fb5392cc66c6",
+    "semantic_hash": ""
+  },
+  "src/types.ts": {
+    "mtime": 1793235984.5719447,
+    "seen": 1793293678.536077,
+    "ast_hash": "acaad3c25d477021c3ce644ac9dbe1c7",
+    "semantic_hash": ""
+  },
+  "tests/learning.test.mjs": {
+    "mtime": 1793233130.3382115,
+    "seen": 1793293678.536077,
+    "ast_hash": "e11e053c5c2a4356422d6784d5e6a618",
+    "semantic_hash": ""
+  },
+  "tsconfig.json": {
+    "mtime": 1793232859.571496,
+    "seen": 1793293678.536077,
+    "ast_hash": "20c7c49534e7e5baf5dd85d7224af3e6",
+    "semantic_hash": ""
+  },
+  "vite.config.ts": {
+    "mtime": 1793294886.4710515,
+    "seen": 1793296562.484648,
+    "ast_hash": "897365d350f107c025b3221276661802",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1793294015.8442497,
+    "seen": 1793294018.7572515,
+    "ast_hash": "9fd6129cc2e594785bcdaab1a5c66b65",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1793293771.676818,
+    "seen": 1793293775.224061,
+    "ast_hash": "514fddde71603ef0fbf5e37669b4dc0d",
+    "semantic_hash": ""
+  },
+  "docs/ARQUITECTURA_Y_RUTA.md": {
+    "mtime": 1793294015.8442497,
+    "seen": 1793294018.7572515,
+    "ast_hash": "abb77b6825aeee1da5aae48f270e245c",
+    "semantic_hash": ""
+  },
+  "docs/BITACORA.md": {
+    "mtime": 1793296550.8432164,
+    "seen": 1793296562.484648,
+    "ast_hash": "ff58d20c570c301b2055734d03b80843",
+    "semantic_hash": ""
+  },
+  "docs/ERRORES_Y_SOLUCIONES.md": {
+    "mtime": 1793293771.676818,
+    "seen": 1793293775.224061,
+    "ast_hash": "9d2b43e896ec5ecdfc5fa2700eae48ae",
+    "semantic_hash": ""
+  },
+  "docs/GRAPHIFY.md": {
+    "mtime": 1793293813.656475,
+    "seen": 1793293816.704016,
+    "ast_hash": "00e9243ac92622bbe89982598659629e",
+    "semantic_hash": ""
+  },
+  "index.html": {
+    "mtime": 1793295100.9808404,
+    "seen": 1793296562.484648,
+    "ast_hash": "24e8ee45d1f0a5212fdbf00ea5f37e5b",
+    "semantic_hash": ""
+  },
+  "render.html": {
+    "mtime": 1793232859.574769,
+    "seen": 1793293678.536077,
+    "ast_hash": "28337335aa3ce89ae39d0836fbda65c1",
+    "semantic_hash": ""
+  },
+  "requirements-graph.txt": {
+    "mtime": 1793293515.8794694,
+    "seen": 1793293678.536077,
+    "ast_hash": "b57dc0f8c656f77f62655d1c51d41fae",
+    "semantic_hash": ""
+  },
+  "requirements-media.txt": {
+    "mtime": 1793233536.7017145,
+    "seen": 1793293678.536077,
+    "ast_hash": "85981ce1d99adb43094fec9b7e989912",
+    "semantic_hash": ""
+  },
+  "graphify-out/memory/query_20261029_170932_4767c665_cu\u00e1l_es_la_base_de_audio_vigente_de_atlas_tras_an.md": {
+    "mtime": 1793293772.7829535,
+    "seen": 1793293775.224061,
+    "ast_hash": "e2030532becf63f88329789900f72300",
+    "semantic_hash": ""
+  },
+  "requirements-graph.lock.txt": {
+    "mtime": 1793293777.1601195,
+    "seen": 1793293816.704016,
+    "ast_hash": "545a849062692cead09771af744b17b8",
+    "semantic_hash": ""
+  },
+  "content/science/lessons.json": {
+    "mtime": 1793294745.7276201,
+    "seen": 1793296562.484648,
+    "ast_hash": "b113a13a3ee3d6a8159664a9bb491fb2",
+    "semantic_hash": ""
+  },
+  "content/science/timed-lessons.json": {
+    "mtime": 1793295524.553852,
+    "seen": 1793296562.484648,
+    "ast_hash": "665e354d5592353d7e11a6b36b800f72",
+    "semantic_hash": ""
+  },
+  "scripts/notebook_pages.py": {
+    "mtime": 1793296857.1895955,
+    "seen": 1793296873.1408713,
+    "ast_hash": "4b0ad05941e88d539e1729f5c81ffd89",
+    "semantic_hash": ""
+  },
+  "scripts/prepare_science.py": {
+    "mtime": 1793295682.19645,
+    "seen": 1793296562.484648,
+    "ast_hash": "51b83d594f1cb0fddc987ba679497ed1",
+    "semantic_hash": ""
+  },
+  "scripts/verify_science.py": {
+    "mtime": 1793295741.351721,
+    "seen": 1793296562.484648,
+    "ast_hash": "4ac4abde25f032c1e2e5503b9532a9b3",
+    "semantic_hash": ""
+  },
+  "src/library-store.d.mts": {
+    "mtime": 1793295022.708856,
+    "seen": 1793296562.484648,
+    "ast_hash": "8740b0690cff41810905169bc857ebd1",
+    "semantic_hash": ""
+  },
+  "src/library-store.mjs": {
+    "mtime": 1793295022.7072947,
+    "seen": 1793296562.484648,
+    "ast_hash": "acbc42ee54918478fabab4c0f386dd2a",
+    "semantic_hash": ""
+  },
+  "src/library.ts": {
+    "mtime": 1793295022.7104216,
+    "seen": 1793296562.484648,
+    "ast_hash": "96b0d290f3f374b44414acede46cca49",
+    "semantic_hash": ""
+  },
+  "src/science-art.ts": {
+    "mtime": 1793294852.671907,
+    "seen": 1793296562.484648,
+    "ast_hash": "3c777b55acb9858cd8739108073671f8",
+    "semantic_hash": ""
+  },
+  "src/science-labs.ts": {
+    "mtime": 1793295240.3085752,
+    "seen": 1793296562.484648,
+    "ast_hash": "3984fa06ead4e9b5f27ba85701892b35",
+    "semantic_hash": ""
+  },
+  "src/science-scenes.ts": {
+    "mtime": 1793294886.4542992,
+    "seen": 1793296562.484648,
+    "ast_hash": "626e5e6840d56319f210d4c8dbab2832",
+    "semantic_hash": ""
+  },
+  "src/science.ts": {
+    "mtime": 1793296852.7281806,
+    "seen": 1793296873.1408713,
+    "ast_hash": "5912166114be6ff3a8ee62b0988e92ea",
+    "semantic_hash": ""
+  },
+  "tests/notebooks.test.mjs": {
+    "mtime": 1793295682.213686,
+    "seen": 1793296562.484648,
+    "ast_hash": "e56f5f226e042be72d9c083b01afbb2d",
+    "semantic_hash": ""
+  },
+  "science.html": {
+    "mtime": 1793296855.7601118,
+    "seen": 1793296873.1408713,
+    "ast_hash": "af5674b764daa1a335fc48b56612e5f3",
+    "semantic_hash": ""
+  },
+  "sociales.html": {
+    "mtime": 1793296854.4606888,
+    "seen": 1793296873.1408713,
+    "ast_hash": "6024155f802a88b35c403d3f13585df8",
+    "semantic_hash": ""
+  }
+}

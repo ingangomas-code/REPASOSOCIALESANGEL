@@ -1,0 +1,9 @@
+{
+  "mode": "deterministic",
+  "semantic_llm_api_calls": 0,
+  "semantic_llm_api_tokens": 0,
+  "agent_tokens": null,
+  "agent_tokens_status": "not_exposed_not_zero",
+  "media_generated_this_update": false,
+  "paid_media_generation_usd_this_update": 0
+}

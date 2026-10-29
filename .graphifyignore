@@ -1,0 +1,14 @@
+.venv/
+node_modules/
+dist/
+.render/
+.vercel/
+.git/
+entrega/
+verification/
+public/media/
+public/sources/
+public/science/
+content/geography.json
+public/maps.json
+package-lock.json

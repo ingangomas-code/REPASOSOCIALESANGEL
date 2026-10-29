@@ -1,0 +1,13 @@
+{
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+0%",
+  "language": "en-US",
+  "tts": "edge-tts",
+  "music": "existing bg_music.ogg, gain 0.10, fade 3 seconds",
+  "paid_generation_usd": 0,
+  "source_photographs": 7,
+  "chapters": 5,
+  "ocr": false,
+  "audio_lead_in_seconds": 0.45,
+  "semantic_review": "Reviewed against supplied worksheets; marked answers not treated as answer key"
+}

@@ -13,7 +13,7 @@ const seek=$<HTMLInputElement>('#seek');
 const checkpoint=$<HTMLDialogElement>('#checkpoint-dialog');
 let initialStorage:string|null=null;try{initialStorage=localStorage.getItem(STORAGE_KEY);}catch{}
 const state=restoreState(initialStorage);
-let selected=state.chapter,previousTime=0,cc=false,changing=false,saveAt=0;
+let selected=state.chapter,previousTime=0,cc=true,changing=false,saveAt=0;
 let currentTab='summary';
 let toastTimer:ReturnType<typeof setTimeout>;
 const lesson=()=>lessons[selected];

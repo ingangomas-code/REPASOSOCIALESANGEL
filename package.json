@@ -8,7 +8,10 @@
     "build": "vite build",
     "check": "tsc --noEmit",
     "test": "node --test tests/*.test.mjs",
-    "preview": "vite preview --host 127.0.0.1 --port 9010 --strictPort"
+    "preview": "vite preview --host 127.0.0.1 --port 9010 --strictPort",
+    "graph:update": "node scripts/graphify.mjs update",
+    "graph:query": "node scripts/graphify.mjs query",
+    "graph:explain": "node scripts/graphify.mjs explain"
   },
   "dependencies": {
     "@motion-canvas/2d": "3.17.2",

@@ -3,5 +3,9 @@ dist/
 .render/
 entrega/
 .vercel/
+.venv/
+__pycache__/
+*.pyc
+.graphify_cache/
 
 .vercel

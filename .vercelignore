@@ -6,3 +6,8 @@ verification/
 scripts/
 tests/
 public/media/*.mp3
+public/science/media/*.mp3
+.venv/
+graphify-out/
+.graphify_cache/
+public/science/sources/original-*.jpg

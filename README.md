@@ -1,17 +1,19 @@
 # Atlas · Laboratorio de Sociales
 
-Repaso en cinco clips reales hechos con Motion Canvas 3.17.2 y narración TTS en español dominicano. Basado en las cinco fotografías aportadas por el usuario, sin OCR. Las hojas originales y los materiales anteriores de Cinema/Manus se conservan.
+Repaso en cinco clips reales hechos con Motion Canvas 3.17.2. La base vigente incorpora los cambios de Antigravity: voz `es-ES-AlvaroNeural` a `+8%`, música suave en bucle y tiempos de subtítulos por frase cuando están disponibles. Basado en las cinco fotografías aportadas por el usuario, sin OCR. Las hojas originales y los materiales anteriores de Cinema/Manus se conservan.
+
+Para continuar: [bitácora](docs/BITACORA.md), [arquitectura y ruta hacia nuevas materias](docs/ARQUITECTURA_Y_RUTA.md), [incidencias](docs/ERRORES_Y_SOLUCIONES.md) y [Graphify local](docs/GRAPHIFY.md). Este repositorio tiene su propio entorno de Graphify y grafo, independientes del proyecto cinematográfico superior.
 
 ## Abrir el repaso
 
-Haz doble clic en `ABRIR-REPASO.cmd`, o abre `dist/index.html`. El HTML final incluye el código y los estilos; necesita conservar al lado las carpetas `media/` y `sources/`. Funciona sin conexión una vez generado. Si un navegador restringe archivos locales, ejecuta `SERVIR-REPASO.cmd` y abre `http://127.0.0.1:9011/`. No se publica en Internet.
+Haz doble clic en `ABRIR-REPASO.cmd`, o abre `dist/index.html`. El HTML portable incluye el código y los estilos una vez ejecutado `scripts/portable.mjs`; necesita conservar al lado las carpetas `media/` y `sources/`. Si un navegador restringe archivos locales, ejecuta `SERVIR-REPASO.cmd` y abre `http://127.0.0.1:9011/`. El usuario ya realizó la publicación con Antigravity; estos comandos locales no despliegan cambios.
 
-El ZIP de entrega contiene el HTML y todos sus medios. Puede subirse el contenido de `dist/` a un alojamiento estático. No requiere claves, backend ni instalación de Motion Canvas para reproducirse.
+El ZIP de primera entrega contiene el HTML y sus medios originales, pero es anterior al cambio de voz/música: no asumir que representa la versión vigente. Los cinco MP4 de `public/media/` y `dist/media/` sí coinciden en la revisión del 2026-10-29. Una nueva entrega portable debe fijarse y empaquetarse de nuevo cuando se solicite. La reproducción no requiere claves, backend ni instalación de Motion Canvas.
 
 ## Experiencia
 
 - Cinco capítulos de unos tres minutos, seis escenas por capítulo.
-- Voz `es-DO-EmilioNeural` incorporada en los MP4; controles de pausa, volumen, velocidad, repetición y navegación por escenas.
+- Voz `es-ES-AlvaroNeural` a `+8%` y música suave incorporadas en los MP4; controles de pausa, volumen, velocidad, repetición y navegación por escenas.
 - Una pausa de razonamiento por capítulo, tres retos finales por capítulo y cinco preguntas de misión final.
 - Subtítulos por frases, resúmenes, pistas, corrección con explicación y repaso de errores.
 - Laboratorios: orientación al girar, hemisferios, límites de la isla, mapa con estrella y colores, y siete asociaciones de comunidad.
@@ -31,7 +33,7 @@ Fuentes: https://www.geoboundaries.org/ · https://www.openstreetmap.org/copyrig
 
 ## Desarrollo y reproducción de la producción
 
-Requisitos: Node.js 22.12+ o 24, FFmpeg y Python con `edge-tts==7.3.1`, `Pillow==13.0.0`. La generación de voz requiere Internet y usa el servicio de Microsoft mediante edge-tts; el repaso final no lo necesita. Generación pagada utilizada: US$0.
+Requisitos: Node.js 22.12+ o 24, FFmpeg y Python con `edge-tts==7.3.1`, `Pillow==13.0.0`. La generación de voz requiere Internet y usa el servicio de Microsoft mediante edge-tts; el repaso final no lo necesita. La configuración actual también necesita `bg_music.ogg` y, para actualizar el MP4 sin renderizar otra vez, los videos mudos de `.render/`. Las dependencias locales y la portabilidad pendiente se registran en `docs/ERRORES_Y_SOLUCIONES.md`. Generación pagada declarada por los metadatos vigentes: US$0.
 
 ```powershell
 npm ci
@@ -51,7 +53,7 @@ node scripts/portable.mjs
 ..\..\.venv\Scripts\python.exe scripts/verify_media.py
 ```
 
-`scripts/prepare.py` guarda en caché la voz según texto, voz y velocidad, preserva copias exactas de las fuentes con SHA-256 y crea subtítulos VTT. Los tiempos de cada frase se estiman proporcionalmente dentro del segmento de voz medido; no son una alineación fonética. El botón CC del HTML usa la misma aproximación y funciona sin cargar archivos externos.
+`scripts/prepare.py` guarda en caché la voz según texto, voz y velocidad, preserva copias exactas de las fuentes con SHA-256 y crea subtítulos VTT. Los tiempos de frase proceden de `SentenceBoundary` cuando el servicio los proporciona; se conserva una estimación proporcional como respaldo. El botón CC consulta los tiempos incorporados en los datos, sin cargar archivos externos. No es una alineación fonética palabra a palabra.
 
 ## Verificación
 
