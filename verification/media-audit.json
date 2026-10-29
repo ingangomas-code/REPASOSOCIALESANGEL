@@ -5,7 +5,7 @@
     "video": "h264",
     "audio": "aac",
     "decode": "passed",
-    "size_bytes": 4890793,
+    "size_bytes": 5944235,
     "frames": "4794"
   },
   {
@@ -14,7 +14,7 @@
     "video": "h264",
     "audio": "aac",
     "decode": "passed",
-    "size_bytes": 4676171,
+    "size_bytes": 5678281,
     "frames": "4467"
   },
   {
@@ -23,7 +23,7 @@
     "video": "h264",
     "audio": "aac",
     "decode": "passed",
-    "size_bytes": 4843913,
+    "size_bytes": 5835604,
     "frames": "4451"
   },
   {
@@ -32,7 +32,7 @@
     "video": "h264",
     "audio": "aac",
     "decode": "passed",
-    "size_bytes": 5167602,
+    "size_bytes": 6160963,
     "frames": "4325"
   },
   {
@@ -41,7 +41,7 @@
     "video": "h264",
     "audio": "aac",
     "decode": "passed",
-    "size_bytes": 5242553,
+    "size_bytes": 6277175,
     "frames": "4688"
   }
 ]

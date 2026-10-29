@@ -1,11 +1,12 @@
 {
-  "voice": "es-DO-EmilioNeural",
+  "voice": "es-ES-AlvaroNeural",
   "tts": "edge-tts",
-  "rate": "-8%",
+  "rate": "+8%",
+  "bg_music": "bg_music.ogg (loop, volume=0.18, fade_out=4s)",
   "paid_generation_usd": 0,
   "ocr": false,
-  "audio": "Actual generated speech, not simulated",
-  "caption_timing": "Sentence timing estimated proportionally inside each measured audio segment",
+  "audio": "Actual generated speech (es-ES-AlvaroNeural) mixed with subtle intrigue background music",
+  "caption_timing": "Exact SentenceBoundary offsets from edge-tts inside each frame-aligned scene",
   "source": "Five user-provided worksheet photographs; manually reviewed",
   "video_engine": "Motion Canvas 3.17.2"
 }

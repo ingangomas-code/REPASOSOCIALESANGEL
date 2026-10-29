@@ -34,9 +34,47 @@
           "Comprueba el recorrido"
         ],
         "narration": "Imagina que vas a explorar y necesitas explicar dónde está un lugar. Decir por allá no ayuda mucho. Necesitamos referencias que otras personas también entiendan. Hoy construiremos una herramienta mental: los puntos cardinales. Mira la rosa de los vientos. Sus cuatro direcciones principales nos ayudan a describir lugares y recorridos. Antes de memorizar, vamos a descubrir cómo se relacionan.",
-        "start": 0,
+        "start": 0.0,
         "duration": 35.125,
-        "end": 35.125
+        "end": 35.125,
+        "voiceDuration": 25.752,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 4.2227,
+            "text": "Imagina que vas a explorar y necesitas explicar dónde está un lugar."
+          },
+          {
+            "offset": 4.2727,
+            "duration": 2.4653,
+            "text": "Decir por allá no ayuda mucho."
+          },
+          {
+            "offset": 6.738,
+            "duration": 3.8657,
+            "text": "Necesitamos referencias que otras personas también entiendan."
+          },
+          {
+            "offset": 10.6037,
+            "duration": 4.2148,
+            "text": "Hoy construiremos una herramienta mental: los puntos cardinales."
+          },
+          {
+            "offset": 14.8185,
+            "duration": 2.3495,
+            "text": "Mira la rosa de los vientos."
+          },
+          {
+            "offset": 17.1681,
+            "duration": 4.6509,
+            "text": "Sus cuatro direcciones principales nos ayudan a describir lugares y recorridos."
+          },
+          {
+            "offset": 21.819,
+            "duration": 3.9005,
+            "text": "Antes de memorizar, vamos a descubrir cómo se relacionan."
+          }
+        ]
       },
       {
         "title": "Cuatro direcciones, dos parejas",
@@ -51,7 +89,35 @@
         "narration": "Los puntos cardinales son norte, sur, este y oeste. El norte está en dirección opuesta al sur; el este está en dirección opuesta al oeste. En el mapa que ves hemos colocado el norte arriba: por eso el sur queda abajo, el este a la derecha y el oeste a la izquierda. Pero atención: esa colocación describe este mapa. El norte no es el techo del mundo.",
         "start": 35.125,
         "duration": 30.625,
-        "end": 65.75
+        "end": 65.75,
+        "voiceDuration": 22.176,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 4.0972,
+            "text": "Los puntos cardinales son norte, sur, este y oeste."
+          },
+          {
+            "offset": 4.1472,
+            "duration": 4.813,
+            "text": "El norte está en dirección opuesta al sur; el este está en dirección opuesta al oeste."
+          },
+          {
+            "offset": 8.9602,
+            "duration": 7.0255,
+            "text": "En el mapa que ves hemos colocado el norte arriba: por eso el sur queda abajo, el este a la derecha y el oeste a la izquierda."
+          },
+          {
+            "offset": 15.9856,
+            "duration": 3.6361,
+            "text": "Pero atención: esa colocación describe este mapa."
+          },
+          {
+            "offset": 19.6218,
+            "duration": 2.5329,
+            "text": "El norte no es el techo del mundo."
+          }
+        ]
       },
       {
         "title": "La aguja tiene una pista",
@@ -66,7 +132,40 @@
         "narration": "La brújula es un instrumento que nos ayuda a orientarnos. Dentro tiene una aguja imantada. Su extremo marcado como norte se orienta aproximadamente hacia el norte magnético. Decimos aproximadamente porque el norte magnético y el geográfico no son exactamente el mismo punto. Si giras tu cuerpo, no cambias el norte: cambias tu posición respecto a él. Esa diferencia será útil en nuestro primer reto.",
         "start": 65.75,
         "duration": 34.5,
-        "end": 100.25
+        "end": 100.25,
+        "voiceDuration": 25.296,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 3.5861,
+            "text": "La brújula es un instrumento que nos ayuda a orientarnos."
+          },
+          {
+            "offset": 3.6361,
+            "duration": 2.6176,
+            "text": "Dentro tiene una aguja imantada."
+          },
+          {
+            "offset": 6.2537,
+            "duration": 4.9421,
+            "text": "Su extremo marcado como norte se orienta aproximadamente hacia el norte magnético."
+          },
+          {
+            "offset": 11.1958,
+            "duration": 5.9704,
+            "text": "Decimos aproximadamente porque el norte magnético y el geográfico no son exactamente el mismo punto."
+          },
+          {
+            "offset": 17.1662,
+            "duration": 4.8264,
+            "text": "Si giras tu cuerpo, no cambias el norte: cambias tu posición respecto a él."
+          },
+          {
+            "offset": 21.9926,
+            "duration": 3.2639,
+            "text": "Esa diferencia será útil en nuestro primer reto."
+          }
+        ]
       },
       {
         "title": "La salida del Sol",
@@ -81,7 +180,40 @@
         "narration": "Otra referencia es el Sol. Para este repaso recordaremos que sale aproximadamente por el este y se pone aproximadamente por el oeste. Si miras hacia el norte, el este queda a tu derecha. Si ahora te das media vuelta, tu derecha apunta al oeste. Por eso no debemos decir que el este siempre es la derecha. La dirección cardinal permanece aunque nosotros nos giremos.",
         "start": 100.25,
         "duration": 31.791666666666668,
-        "end": 132.041667
+        "end": 132.041667,
+        "voiceDuration": 22.992,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 2.3824,
+            "text": "Otra referencia es el Sol."
+          },
+          {
+            "offset": 2.4324,
+            "duration": 5.8468,
+            "text": "Para este repaso recordaremos que sale aproximadamente por el este y se pone aproximadamente por el oeste."
+          },
+          {
+            "offset": 8.2792,
+            "duration": 3.4954,
+            "text": "Si miras hacia el norte, el este queda a tu derecha."
+          },
+          {
+            "offset": 11.7745,
+            "duration": 3.8194,
+            "text": "Si ahora te das media vuelta, tu derecha apunta al oeste."
+          },
+          {
+            "offset": 15.594,
+            "duration": 3.6111,
+            "text": "Por eso no debemos decir que el este siempre es la derecha."
+          },
+          {
+            "offset": 19.2051,
+            "duration": 3.7731,
+            "text": "La dirección cardinal permanece aunque nosotros nos giremos."
+          }
+        ]
       },
       {
         "title": "Ir y volver no es lo mismo",
@@ -96,7 +228,45 @@
         "narration": "Salgamos de casa y caminemos hacia el norte hasta una biblioteca. Ahora queremos regresar por el mismo camino. ¿Seguimos caminando hacia el norte? No: para volver, avanzamos hacia el sur. El recorrido tiene los mismos lugares, pero cambia la dirección. También ocurre con el este y el oeste. Saber los nombres es útil; usarlos para explicar un movimiento es entenderlos.",
         "start": 132.041667,
         "duration": 33.708333333333336,
-        "end": 165.75
+        "end": 165.75,
+        "voiceDuration": 24.48,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 4.0838,
+            "text": "Salgamos de casa y caminemos hacia el norte hasta una biblioteca."
+          },
+          {
+            "offset": 4.1338,
+            "duration": 3.0208,
+            "text": "Ahora queremos regresar por el mismo camino."
+          },
+          {
+            "offset": 7.1546,
+            "duration": 2.4884,
+            "text": "Seguimos caminando hacia el norte?"
+          },
+          {
+            "offset": 9.6431,
+            "duration": 3.3912,
+            "text": "No: para volver, avanzamos hacia el sur."
+          },
+          {
+            "offset": 13.0343,
+            "duration": 4.1106,
+            "text": "El recorrido tiene los mismos lugares, pero cambia la dirección."
+          },
+          {
+            "offset": 17.1449,
+            "duration": 2.7083,
+            "text": "También ocurre con el este y el oeste."
+          },
+          {
+            "offset": 19.8532,
+            "duration": 4.6181,
+            "text": "Saber los nombres es útil; usarlos para explicar un movimiento es entenderlos."
+          }
+        ]
       },
       {
         "title": "Tu caja de herramientas",
@@ -111,7 +281,45 @@
         "narration": "Guarda estas tres ideas. Hay cuatro puntos cardinales organizados en dos parejas de opuestos. La brújula nos orienta con una aguja imantada. Y una buena explicación necesita una referencia: hacia dónde miras, de dónde sales o adónde vas. Ahora vienen tres desafíos. Puedes detenerte, volver a mirar una escena o pedir una pista. Lo importante será justificar tu respuesta.",
         "start": 165.75,
         "duration": 34.0,
-        "end": 199.75
+        "end": 199.75,
+        "voiceDuration": 25.344,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 2.2667,
+            "text": "Guarda estas tres ideas."
+          },
+          {
+            "offset": 2.3167,
+            "duration": 4.2843,
+            "text": "Hay cuatro puntos cardinales organizados en dos parejas de opuestos."
+          },
+          {
+            "offset": 6.6009,
+            "duration": 3.1347,
+            "text": "La brújula nos orienta con una aguja imantada."
+          },
+          {
+            "offset": 9.7356,
+            "duration": 5.9259,
+            "text": "Y una buena explicación necesita una referencia: hacia dónde miras, de dónde sales o adónde vas."
+          },
+          {
+            "offset": 15.6616,
+            "duration": 2.4421,
+            "text": "Ahora vienen tres desafíos."
+          },
+          {
+            "offset": 18.1037,
+            "duration": 4.0644,
+            "text": "Puedes detenerte, volver a mirar una escena o pedir una pista."
+          },
+          {
+            "offset": 22.1681,
+            "duration": 3.1579,
+            "text": "Lo importante será justificar tu respuesta."
+          }
+        ]
       }
     ],
     "checkpoint": {
@@ -198,9 +406,42 @@
           "Nos ayuda a ubicar lugares"
         ],
         "narration": "Vamos a mirar la Tierra desde lejos. Los mapas dibujan líneas que ayudan a pensar, aunque no veamos esas líneas pintadas en el suelo. Una de ellas es el ecuador. Rodea la Tierra a mitad de camino entre los polos. No es una pared y tampoco separa necesariamente países. Es una referencia imaginaria para describir en qué mitad de la Tierra está un lugar.",
-        "start": 0,
+        "start": 0.0,
         "duration": 30.625,
-        "end": 30.625
+        "end": 30.625,
+        "voiceDuration": 22.128,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 2.7065,
+            "text": "Vamos a mirar la Tierra desde lejos."
+          },
+          {
+            "offset": 2.7565,
+            "duration": 5.4977,
+            "text": "Los mapas dibujan líneas que ayudan a pensar, aunque no veamos esas líneas pintadas en el suelo."
+          },
+          {
+            "offset": 8.2542,
+            "duration": 2.2222,
+            "text": "Una de ellas es el ecuador."
+          },
+          {
+            "offset": 10.4764,
+            "duration": 3.2755,
+            "text": "Rodea la Tierra a mitad de camino entre los polos."
+          },
+          {
+            "offset": 13.7519,
+            "duration": 3.7287,
+            "text": "No es una pared y tampoco separa necesariamente países."
+          },
+          {
+            "offset": 17.4806,
+            "duration": 4.6162,
+            "text": "Es una referencia imaginaria para describir en qué mitad de la Tierra está un lugar."
+          }
+        ]
       },
       {
         "title": "Dos mitades con nombre",
@@ -215,7 +456,35 @@
         "narration": "La palabra hemisferio significa media esfera. Tomando el ecuador como referencia, distinguimos el hemisferio norte y el hemisferio sur. En tu hoja se pide colorear de azul el norte, de verde el sur y de rojo la línea del ecuador. Conservaremos esos colores para que conectes la animación con tu actividad. Los colores son una ayuda del dibujo, no los colores reales de la Tierra.",
         "start": 30.625,
         "duration": 31.333333333333332,
-        "end": 61.958333
+        "end": 61.958333,
+        "voiceDuration": 22.224,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 3.1694,
+            "text": "La palabra hemisferio significa media esfera."
+          },
+          {
+            "offset": 3.2194,
+            "duration": 5.0926,
+            "text": "Tomando el ecuador como referencia, distinguimos el hemisferio norte y el hemisferio sur."
+          },
+          {
+            "offset": 8.312,
+            "duration": 5.3125,
+            "text": "En tu hoja se pide colorear de azul el norte, de verde el sur y de rojo la línea del ecuador."
+          },
+          {
+            "offset": 13.6245,
+            "duration": 4.213,
+            "text": "Conservaremos esos colores para que conectes la animación con tu actividad."
+          },
+          {
+            "offset": 17.8375,
+            "duration": 4.3884,
+            "text": "Los colores son una ayuda del dibujo, no los colores reales de la Tierra."
+          }
+        ]
       },
       {
         "title": "¿Norte y sur, o este y oeste?",
@@ -230,7 +499,40 @@
         "narration": "Aquí hay una confusión que conviene resolver. El ecuador divide la Tierra en hemisferios norte y sur; no la divide en oriental y occidental. Oriental se relaciona con el este y occidental con el oeste. Esas palabras aparecen en tu banco de palabras. Para responder bien, observa qué línea se está usando como referencia. Una misma Tierra puede describirse de distintas maneras.",
         "start": 61.958333,
         "duration": 32.416666666666664,
-        "end": 94.375
+        "end": 94.375,
+        "voiceDuration": 23.52,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 2.9843,
+            "text": "Aquí hay una confusión que conviene resolver."
+          },
+          {
+            "offset": 3.0343,
+            "duration": 5.3106,
+            "text": "El ecuador divide la Tierra en hemisferios norte y sur; no la divide en oriental y occidental."
+          },
+          {
+            "offset": 8.3449,
+            "duration": 3.9486,
+            "text": "Oriental se relaciona con el este y occidental con el oeste."
+          },
+          {
+            "offset": 12.2935,
+            "duration": 3.1829,
+            "text": "Esas palabras aparecen en tu banco de palabras."
+          },
+          {
+            "offset": 15.4764,
+            "duration": 4.3866,
+            "text": "Para responder bien, observa qué línea se está usando como referencia."
+          },
+          {
+            "offset": 19.863,
+            "duration": 3.6227,
+            "text": "Una misma Tierra puede describirse de distintas maneras."
+          }
+        ]
       },
       {
         "title": "¿Dónde está nuestro país?",
@@ -245,7 +547,35 @@
         "narration": "Busquemos ahora República Dominicana. Está en el Caribe y se encuentra al norte del ecuador. Por eso pertenece al hemisferio norte. No hace falta que esté cerca del polo norte para pertenecer a ese hemisferio: basta con estar al norte de la línea. En este dibujo hemos marcado su posición de forma esquemática para que puedas reconocer la relación, sin memorizar números.",
         "start": 94.375,
         "duration": 31.0,
-        "end": 125.375
+        "end": 125.375,
+        "voiceDuration": 22.56,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 2.8009,
+            "text": "Busquemos ahora República Dominicana."
+          },
+          {
+            "offset": 2.8509,
+            "duration": 3.3083,
+            "text": "Está en el Caribe y se encuentra al norte del ecuador."
+          },
+          {
+            "offset": 6.1593,
+            "duration": 2.7199,
+            "text": "Por eso pertenece al hemisferio norte."
+          },
+          {
+            "offset": 8.8792,
+            "duration": 6.5046,
+            "text": "No hace falta que esté cerca del polo norte para pertenecer a ese hemisferio: basta con estar al norte de la línea."
+          },
+          {
+            "offset": 15.3838,
+            "duration": 7.1662,
+            "text": "En este dibujo hemos marcado su posición de forma esquemática para que puedas reconocer la relación, sin memorizar números."
+          }
+        ]
       },
       {
         "title": "Cruzar una referencia",
@@ -260,7 +590,35 @@
         "narration": "Imagina un viaje que comienza al norte del ecuador y avanza hacia el sur hasta cruzarlo. Has cambiado de hemisferio. Pero eso no nos permite asegurar que hayas cambiado de país: algunos países tienen territorio a ambos lados del ecuador. Fíjate en cómo razonamos. Una pista nos dice algo concreto, y debemos evitar concluir más de lo que esa pista demuestra.",
         "start": 125.375,
         "duration": 30.583333333333332,
-        "end": 155.958333
+        "end": 155.958333,
+        "voiceDuration": 21.792,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 4.8361,
+            "text": "Imagina un viaje que comienza al norte del ecuador y avanza hacia el sur hasta cruzarlo."
+          },
+          {
+            "offset": 4.8861,
+            "duration": 2.1528,
+            "text": "Has cambiado de hemisferio."
+          },
+          {
+            "offset": 7.0389,
+            "duration": 6.8769,
+            "text": "Pero eso no nos permite asegurar que hayas cambiado de país: algunos países tienen territorio a ambos lados del ecuador."
+          },
+          {
+            "offset": 13.9157,
+            "duration": 2.338,
+            "text": "Fíjate en cómo razonamos."
+          },
+          {
+            "offset": 16.2537,
+            "duration": 5.5074,
+            "text": "Una pista nos dice algo concreto, y debemos evitar concluir más de lo que esa pista demuestra."
+          }
+        ]
       },
       {
         "title": "Una regla para recordar",
@@ -275,7 +633,30 @@
         "narration": "Recuerda la relación principal: ecuador, hemisferio norte y hemisferio sur. En un mapa con el norte arriba, el hemisferio norte aparece por encima del ecuador, pero no es un piso superior del planeta. República Dominicana pertenece a esa mitad norte. En los retos vas a identificar colores, corregir una afirmación y usar la línea para explicar un viaje.",
         "start": 155.958333,
         "duration": 30.166666666666668,
-        "end": 186.125
+        "end": 186.125,
+        "voiceDuration": 21.408,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 4.8014,
+            "text": "Recuerda la relación principal: ecuador, hemisferio norte y hemisferio sur."
+          },
+          {
+            "offset": 4.8514,
+            "duration": 7.0968,
+            "text": "En un mapa con el norte arriba, el hemisferio norte aparece por encima del ecuador, pero no es un piso superior del planeta."
+          },
+          {
+            "offset": 11.9481,
+            "duration": 3.5185,
+            "text": "República Dominicana pertenece a esa mitad norte."
+          },
+          {
+            "offset": 15.4667,
+            "duration": 5.9491,
+            "text": "En los retos vas a identificar colores, corregir una afirmación y usar la línea para explicar un viaje."
+          }
+        ]
       }
     ],
     "checkpoint": {
@@ -358,9 +739,37 @@
           "República Dominicana: parte este"
         ],
         "narration": "Una isla es una porción de tierra rodeada de agua. Un país es un territorio con su propia organización política. No significan lo mismo. La Española, también llamada isla de Santo Domingo, está compartida por dos países: Haití ocupa la parte oeste y República Dominicana la parte este. Si cruzas la frontera entre ambos por tierra, cambias de país y sigues en la misma isla.",
-        "start": 0,
+        "start": 0.0,
         "duration": 32.916666666666664,
-        "end": 32.916667
+        "end": 32.916667,
+        "voiceDuration": 23.784,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 3.3778,
+            "text": "Una isla es una porción de tierra rodeada de agua."
+          },
+          {
+            "offset": 3.4278,
+            "duration": 3.8773,
+            "text": "Un país es un territorio con su propia organización política."
+          },
+          {
+            "offset": 7.3051,
+            "duration": 2.2588,
+            "text": "No significan lo mismo."
+          },
+          {
+            "offset": 9.5639,
+            "duration": 8.9449,
+            "text": "La Española, también llamada isla de Santo Domingo, está compartida por dos países: Haití ocupa la parte oeste y República Dominicana la parte este."
+          },
+          {
+            "offset": 18.5088,
+            "duration": 5.2431,
+            "text": "Si cruzas la frontera entre ambos por tierra, cambias de país y sigues en la misma isla."
+          }
+        ]
       },
       {
         "title": "Dos países, dos capitales",
@@ -375,7 +784,35 @@
         "narration": "La capital de República Dominicana es Santo Domingo. La capital de Haití es Puerto Príncipe. Santiago es una ciudad dominicana importante, pero no es la capital del país. En tu hoja aparece una frase que afirma lo contrario para que detectes que es falsa. No basta con poner una efe: puedes corregirla y demostrar que sabes cuál es la información correcta.",
         "start": 32.916667,
         "duration": 30.166666666666668,
-        "end": 63.083333
+        "end": 63.083333,
+        "voiceDuration": 22.08,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 3.4935,
+            "text": "La capital de República Dominicana es Santo Domingo."
+          },
+          {
+            "offset": 3.5435,
+            "duration": 2.8838,
+            "text": "La capital de Haití es Puerto Príncipe."
+          },
+          {
+            "offset": 6.4273,
+            "duration": 4.9403,
+            "text": "Santiago es una ciudad dominicana importante, pero no es la capital del país."
+          },
+          {
+            "offset": 11.3676,
+            "duration": 4.944,
+            "text": "En tu hoja aparece una frase que afirma lo contrario para que detectes que es falsa."
+          },
+          {
+            "offset": 16.3116,
+            "duration": 5.7639,
+            "text": "No basta con poner una efe: puedes corregirla y demostrar que sabes cuál es la información correcta."
+          }
+        ]
       },
       {
         "title": "Mira el agua alrededor",
@@ -390,7 +827,30 @@
         "narration": "Vamos a rodear la isla usando los puntos cardinales. Al norte encontramos el océano Atlántico y al sur el mar Caribe. Imagina que estás mirando el mapa con el norte arriba: el Atlántico queda por encima de la isla y el Caribe por debajo. Relacionar estos nombres con las direcciones te ayuda más que repetir una lista sin mirar el mapa.",
         "start": 63.083333,
         "duration": 27.916666666666668,
-        "end": 91.0
+        "end": 91.0,
+        "voiceDuration": 19.728,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 3.6556,
+            "text": "Vamos a rodear la isla usando los puntos cardinales."
+          },
+          {
+            "offset": 3.7056,
+            "duration": 3.9931,
+            "text": "Al norte encontramos el océano Atlántico y al sur el mar Caribe."
+          },
+          {
+            "offset": 7.6986,
+            "duration": 6.6801,
+            "text": "Imagina que estás mirando el mapa con el norte arriba: el Atlántico queda por encima de la isla y el Caribe por debajo."
+          },
+          {
+            "offset": 14.3787,
+            "duration": 5.3356,
+            "text": "Relacionar estos nombres con las direcciones te ayuda más que repetir una lista sin mirar el mapa."
+          }
+        ]
       },
       {
         "title": "Dos pasos de agua",
@@ -405,7 +865,35 @@
         "narration": "Al este de la isla está el canal de la Mona, que la separa de Puerto Rico. Al oeste está el paso de los Vientos, llamado canal del Viento en tu hoja, que la separa de Cuba. Aquí hablamos de los límites de la isla completa. Si preguntamos por el país República Dominicana, al oeste su vecino terrestre es Haití. Leer bien la pregunta cambia la respuesta.",
         "start": 91.0,
         "duration": 30.166666666666668,
-        "end": 121.166667
+        "end": 121.166667,
+        "voiceDuration": 21.36,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 4.2708,
+            "text": "Al este de la isla está el canal de la Mona, que la separa de Puerto Rico."
+          },
+          {
+            "offset": 4.3208,
+            "duration": 5.6134,
+            "text": "Al oeste está el paso de los Vientos, llamado canal del Viento en tu hoja, que la separa de Cuba."
+          },
+          {
+            "offset": 9.9343,
+            "duration": 3.1694,
+            "text": "Aquí hablamos de los límites de la isla completa."
+          },
+          {
+            "offset": 13.1037,
+            "duration": 5.2778,
+            "text": "Si preguntamos por el país República Dominicana, al oeste su vecino terrestre es Haití."
+          },
+          {
+            "offset": 18.3815,
+            "duration": 2.9398,
+            "text": "Leer bien la pregunta cambia la respuesta."
+          }
+        ]
       },
       {
         "title": "¿Qué cambia al cruzar?",
@@ -420,7 +908,45 @@
         "narration": "Hagamos una prueba mental. Sales de República Dominicana y avanzas hacia Haití. En términos generales, viajas hacia el oeste. Al cruzar la frontera cambias de país. No cambias de isla y tampoco necesitas cruzar un océano. Esta explicación usa varias pistas juntas: el mapa, las direcciones y la diferencia entre isla y país. Eso es razonar con lo que sabes.",
         "start": 121.166667,
         "duration": 33.541666666666664,
-        "end": 154.708333
+        "end": 154.708333,
+        "voiceDuration": 24.696,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 2.2648,
+            "text": "Hagamos una prueba mental."
+          },
+          {
+            "offset": 2.3148,
+            "duration": 3.5569,
+            "text": "Sales de República Dominicana y avanzas hacia Haití."
+          },
+          {
+            "offset": 5.8718,
+            "duration": 3.3315,
+            "text": "En términos generales, viajas hacia el oeste."
+          },
+          {
+            "offset": 9.2032,
+            "duration": 2.8009,
+            "text": "Al cruzar la frontera cambias de país."
+          },
+          {
+            "offset": 12.0042,
+            "duration": 3.8079,
+            "text": "No cambias de isla y tampoco necesitas cruzar un océano."
+          },
+          {
+            "offset": 15.812,
+            "duration": 6.2384,
+            "text": "Esta explicación usa varias pistas juntas: el mapa, las direcciones y la diferencia entre isla y país."
+          },
+          {
+            "offset": 22.0505,
+            "duration": 2.6042,
+            "text": "Eso es razonar con lo que sabes."
+          }
+        ]
       },
       {
         "title": "Arma el mapa en tu cabeza",
@@ -435,7 +961,30 @@
         "narration": "Cierra el recorrido con una imagen mental: Haití al oeste y República Dominicana al este; Atlántico al norte y Caribe al sur. Añade los canales a los lados y recuerda las capitales. Cuando aparezca una afirmación falsa, conviértela en una afirmación verdadera. Y antes de responder sobre un límite, comprueba si están preguntando por el país o por la isla completa.",
         "start": 154.708333,
         "duration": 30.75,
-        "end": 185.458333
+        "end": 185.458333,
+        "voiceDuration": 21.744,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 7.288,
+            "text": "Cierra el recorrido con una imagen mental: Haití al oeste y República Dominicana al este; Atlántico al norte y Caribe al sur."
+          },
+          {
+            "offset": 7.388,
+            "duration": 3.5282,
+            "text": "Añade los canales a los lados y recuerda las capitales."
+          },
+          {
+            "offset": 10.9162,
+            "duration": 4.8514,
+            "text": "Cuando aparezca una afirmación falsa, conviértela en una afirmación verdadera."
+          },
+          {
+            "offset": 15.7676,
+            "duration": 5.9356,
+            "text": "Y antes de responder sobre un límite, comprueba si están preguntando por el país o por la isla completa."
+          }
+        ]
       }
     ],
     "checkpoint": {
@@ -518,9 +1067,37 @@
           "Comprueba el nombre"
         ],
         "narration": "Hoy el mapa es un tablero de investigación. Una provincia es una división del territorio del país. No vamos a memorizar todas de golpe: buscaremos cinco que aparecen en tu hoja. Para encontrarlas puedes observar las costas, comparar qué provincia está más al norte o al este y comprobar su nombre. Primero construiremos referencias; después harás tú las marcas de la actividad.",
-        "start": 0,
+        "start": 0.0,
         "duration": 31.125,
-        "end": 31.125
+        "end": 31.125,
+        "voiceDuration": 22.464,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 3.0093,
+            "text": "Hoy el mapa es un tablero de investigación."
+          },
+          {
+            "offset": 3.0593,
+            "duration": 3.4259,
+            "text": "Una provincia es una división del territorio del país."
+          },
+          {
+            "offset": 6.4852,
+            "duration": 4.6972,
+            "text": "No vamos a memorizar todas de golpe: buscaremos cinco que aparecen en tu hoja."
+          },
+          {
+            "offset": 11.1824,
+            "duration": 6.6898,
+            "text": "Para encontrarlas puedes observar las costas, comparar qué provincia está más al norte o al este y comprobar su nombre."
+          },
+          {
+            "offset": 17.8722,
+            "duration": 4.5486,
+            "text": "Primero construiremos referencias; después harás tú las marcas de la actividad."
+          }
+        ]
       },
       {
         "title": "Dos pistas en el norte",
@@ -535,7 +1112,35 @@
         "narration": "Mira la parte norte del país. Monte Cristi está hacia el noroeste y en tu hoja debe llevar una estrella. Más hacia el este aparece Puerto Plata, que debes colorear de rojo. Las dos son ejemplos válidos para reconocer una provincia de la región norte. Puerto Plata tiene costa en el océano Atlántico: acabamos de conectar este mapa con lo aprendido sobre la isla.",
         "start": 31.125,
         "duration": 30.166666666666668,
-        "end": 61.291667
+        "end": 61.291667,
+        "voiceDuration": 21.912,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 2.5694,
+            "text": "Mira la parte norte del país."
+          },
+          {
+            "offset": 2.6194,
+            "duration": 4.1764,
+            "text": "Monte Cristi está hacia el noroeste y en tu hoja debe llevar una estrella."
+          },
+          {
+            "offset": 6.7958,
+            "duration": 4.3403,
+            "text": "Más hacia el este aparece Puerto Plata, que debes colorear de rojo."
+          },
+          {
+            "offset": 11.1361,
+            "duration": 4.4926,
+            "text": "Las dos son ejemplos válidos para reconocer una provincia de la región norte."
+          },
+          {
+            "offset": 15.6287,
+            "duration": 6.2597,
+            "text": "Puerto Plata tiene costa en el océano Atlántico: acabamos de conectar este mapa con lo aprendido sobre la isla."
+          }
+        ]
       },
       {
         "title": "Una provincia del interior",
@@ -550,7 +1155,35 @@
         "narration": "Ahora busca San Juan, en el interior del suroeste del país. La actividad pide colorearla de azul. Ese azul es una instrucción del ejercicio: no significa que la provincia sea un mar. Observa sus límites y comprueba que no llega a la costa. Los colores de un mapa necesitan una explicación o una leyenda; no siempre representan lo mismo.",
         "start": 61.291667,
         "duration": 29.208333333333332,
-        "end": 90.5
+        "end": 90.5,
+        "voiceDuration": 20.904,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 3.9931,
+            "text": "Ahora busca San Juan, en el interior del suroeste del país."
+          },
+          {
+            "offset": 4.0431,
+            "duration": 2.7181,
+            "text": "La actividad pide colorearla de azul."
+          },
+          {
+            "offset": 6.7611,
+            "duration": 4.9556,
+            "text": "Ese azul es una instrucción del ejercicio: no significa que la provincia sea un mar."
+          },
+          {
+            "offset": 11.7167,
+            "duration": 3.5977,
+            "text": "Observa sus límites y comprueba que no llega a la costa."
+          },
+          {
+            "offset": 15.3144,
+            "duration": 5.5556,
+            "text": "Los colores de un mapa necesitan una explicación o una leyenda; no siempre representan lo mismo."
+          }
+        ]
       },
       {
         "title": "El extremo este",
@@ -565,7 +1198,40 @@
         "narration": "Viajemos con la mirada hasta el extremo este del país. Allí encontramos La Altagracia. Tu hoja pide colorearla de verde. Estar en el este no significa estar en la parte de arriba: arriba hemos colocado el norte. Recuerda la rosa de los vientos y observa la punta oriental del mapa. Al este de la isla se encuentra el canal de la Mona.",
         "start": 90.5,
         "duration": 29.083333333333332,
-        "end": 119.583333
+        "end": 119.583333,
+        "voiceDuration": 21.216,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 3.6343,
+            "text": "Viajemos con la mirada hasta el extremo este del país."
+          },
+          {
+            "offset": 3.6843,
+            "duration": 2.5347,
+            "text": "Allí encontramos La Altagracia."
+          },
+          {
+            "offset": 6.219,
+            "duration": 2.4769,
+            "text": "Tu hoja pide colorearla de verde."
+          },
+          {
+            "offset": 8.6958,
+            "duration": 5.2181,
+            "text": "Estar en el este no significa estar en la parte de arriba: arriba hemos colocado el norte."
+          },
+          {
+            "offset": 13.9139,
+            "duration": 4.1204,
+            "text": "Recuerda la rosa de los vientos y observa la punta oriental del mapa."
+          },
+          {
+            "offset": 18.0343,
+            "duration": 3.1731,
+            "text": "Al este de la isla se encuentra el canal de la Mona."
+          }
+        ]
       },
       {
         "title": "Busca el suroeste",
@@ -580,7 +1246,35 @@
         "narration": "Nos falta Barahona. Búscala en el suroeste, junto al mar Caribe, y asocia su nombre con el amarillo que pide la hoja. Compárala con San Juan: ambas están en la parte suroeste del país, pero Barahona tiene costa y San Juan no. Esa comparación te permite distinguirlas sin depender únicamente de su color. Cada pista reduce las posibilidades.",
         "start": 119.583333,
         "duration": 29.75,
-        "end": 149.333333
+        "end": 149.333333,
+        "voiceDuration": 21.408,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 1.9773,
+            "text": "Nos falta Barahona."
+          },
+          {
+            "offset": 2.0273,
+            "duration": 5.8102,
+            "text": "Búscala en el suroeste, junto al mar Caribe, y asocia su nombre con el amarillo que pide la hoja."
+          },
+          {
+            "offset": 7.8375,
+            "duration": 6.356,
+            "text": "Compárala con San Juan: ambas están en la parte suroeste del país, pero Barahona tiene costa y San Juan no."
+          },
+          {
+            "offset": 14.1935,
+            "duration": 4.3269,
+            "text": "Esa comparación te permite distinguirlas sin depender únicamente de su color."
+          },
+          {
+            "offset": 18.5204,
+            "duration": 2.8722,
+            "text": "Cada pista reduce las posibilidades."
+          }
+        ]
       },
       {
         "title": "Tu turno de cartógrafo",
@@ -595,7 +1289,30 @@
         "narration": "Repasemos las marcas: estrella en Monte Cristi, rojo en Puerto Plata, azul en San Juan, verde en La Altagracia y amarillo en Barahona. Después del cuestionario encontrarás un mapa para practicar estas cinco instrucciones. Si dudas, vuelve a mirar las posiciones. Tu objetivo no es hacer clic deprisa: es poder explicar qué pista te permitió reconocer cada provincia.",
         "start": 149.333333,
         "duration": 30.875,
-        "end": 180.208333
+        "end": 180.208333,
+        "voiceDuration": 22.2,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 8.05,
+            "text": "Repasemos las marcas: estrella en Monte Cristi, rojo en Puerto Plata, azul en San Juan, verde en La Altagracia y amarillo en Barahona."
+          },
+          {
+            "offset": 8.15,
+            "duration": 4.8264,
+            "text": "Después del cuestionario encontrarás un mapa para practicar estas cinco instrucciones."
+          },
+          {
+            "offset": 12.9764,
+            "duration": 3.2079,
+            "text": "Si dudas, vuelve a mirar las posiciones."
+          },
+          {
+            "offset": 16.1843,
+            "duration": 5.9954,
+            "text": "Tu objetivo no es hacer clic deprisa: es poder explicar qué pista te permitió reconocer cada provincia."
+          }
+        ]
       }
     ],
     "checkpoint": {
@@ -680,9 +1397,42 @@
           "Iglesia y restaurante: funciones distintas"
         ],
         "narration": "Para reconocer los lugares de una comunidad podemos preguntar qué se hace allí. Un aeropuerto permite la llegada y salida de aviones. Una biblioteca ofrece libros y recursos para leer e investigar. Una iglesia es un lugar de culto y un restaurante prepara y sirve comidas. En tu hoja debes unir cada dibujo con su nombre. Comprender su función te ayuda a reconocerlo aunque cambie el dibujo.",
-        "start": 0,
+        "start": 0.0,
         "duration": 32.958333333333336,
-        "end": 32.958333
+        "end": 32.958333,
+        "voiceDuration": 23.544,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 4.3403,
+            "text": "Para reconocer los lugares de una comunidad podemos preguntar qué se hace allí."
+          },
+          {
+            "offset": 4.3903,
+            "duration": 3.4241,
+            "text": "Un aeropuerto permite la llegada y salida de aviones."
+          },
+          {
+            "offset": 7.8144,
+            "duration": 4.0181,
+            "text": "Una biblioteca ofrece libros y recursos para leer e investigar."
+          },
+          {
+            "offset": 11.8324,
+            "duration": 4.4194,
+            "text": "Una iglesia es un lugar de culto y un restaurante prepara y sirve comidas."
+          },
+          {
+            "offset": 16.2519,
+            "duration": 3.1597,
+            "text": "En tu hoja debes unir cada dibujo con su nombre."
+          },
+          {
+            "offset": 19.4116,
+            "duration": 4.0972,
+            "text": "Comprender su función te ayuda a reconocerlo aunque cambie el dibujo."
+          }
+        ]
       },
       {
         "title": "Tres personas, tres pistas",
@@ -697,7 +1447,40 @@
         "narration": "Escucha las descripciones de la actividad. Lucas dice que vive en la ciudad y cerca de una escuela. Sofía vive en el campo y cerca de una granja. Mateo vive cerca del mar y su casa está cerca de la playa. Debes relacionarlos con las imágenes correspondientes. La palabra clave no es solo el nombre del personaje: es la pista que da sobre su comunidad.",
         "start": 32.958333,
         "duration": 30.25,
-        "end": 63.208333
+        "end": 63.208333,
+        "voiceDuration": 22.2,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 2.7296,
+            "text": "Escucha las descripciones de la actividad."
+          },
+          {
+            "offset": 2.7796,
+            "duration": 3.5782,
+            "text": "Lucas dice que vive en la ciudad y cerca de una escuela."
+          },
+          {
+            "offset": 6.3579,
+            "duration": 3.2176,
+            "text": "Sofía vive en el campo y cerca de una granja."
+          },
+          {
+            "offset": 9.5755,
+            "duration": 3.9815,
+            "text": "Mateo vive cerca del mar y su casa está cerca de la playa."
+          },
+          {
+            "offset": 13.5569,
+            "duration": 3.5051,
+            "text": "Debes relacionarlos con las imágenes correspondientes."
+          },
+          {
+            "offset": 17.062,
+            "duration": 5.1157,
+            "text": "La palabra clave no es solo el nombre del personaje: es la pista que da sobre su comunidad."
+          }
+        ]
       },
       {
         "title": "Una pista no es una regla universal",
@@ -712,7 +1495,40 @@
         "narration": "Vamos un paso más allá. Que Lucas mencione una escuela no significa que solo haya escuelas en las ciudades. También las hay en el campo. Y una ciudad puede estar cerca del mar. Para resolver esta hoja usamos la descripción completa de cada personaje. Aprender con pistas también significa reconocer sus límites: una característica aislada no siempre basta para clasificar un lugar.",
         "start": 63.208333,
         "duration": 32.666666666666664,
-        "end": 95.875
+        "end": 95.875,
+        "voiceDuration": 23.856,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 2.2204,
+            "text": "Vamos un paso más allá."
+          },
+          {
+            "offset": 2.2704,
+            "duration": 4.7356,
+            "text": "Que Lucas mencione una escuela no significa que solo haya escuelas en las ciudades."
+          },
+          {
+            "offset": 7.006,
+            "duration": 2.1991,
+            "text": "También las hay en el campo."
+          },
+          {
+            "offset": 9.2051,
+            "duration": 2.8222,
+            "text": "Y una ciudad puede estar cerca del mar."
+          },
+          {
+            "offset": 12.0273,
+            "duration": 4.5273,
+            "text": "Para resolver esta hoja usamos la descripción completa de cada personaje."
+          },
+          {
+            "offset": 16.5546,
+            "duration": 7.3032,
+            "text": "Aprender con pistas también significa reconocer sus límites: una característica aislada no siempre basta para clasificar un lugar."
+          }
+        ]
       },
       {
         "title": "El letrero cuenta otra historia",
@@ -727,7 +1543,35 @@
         "narration": "Mira ahora el letrero de la última imagen. Hay una inconsistencia en el ejercicio: las preguntas hablan de una escuela, pero la fotografía muestra una estación de bomberos. Podemos señalarlo con tranquilidad y leer los datos reales del cartel. Un buen detective no cambia lo que ve para que encaje con una pregunta. Revisa la evidencia y explica la diferencia.",
         "start": 95.875,
         "duration": 29.75,
-        "end": 125.625
+        "end": 125.625,
+        "voiceDuration": 21.696,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 3.0556,
+            "text": "Mira ahora el letrero de la última imagen."
+          },
+          {
+            "offset": 3.1056,
+            "duration": 7.0833,
+            "text": "Hay una inconsistencia en el ejercicio: las preguntas hablan de una escuela, pero la fotografía muestra una estación de bomberos."
+          },
+          {
+            "offset": 10.1889,
+            "duration": 4.0954,
+            "text": "Podemos señalarlo con tranquilidad y leer los datos reales del cartel."
+          },
+          {
+            "offset": 14.2843,
+            "duration": 4.1435,
+            "text": "Un buen detective no cambia lo que ve para que encaje con una pregunta."
+          },
+          {
+            "offset": 18.4278,
+            "duration": 3.2657,
+            "text": "Revisa la evidencia y explica la diferencia."
+          }
+        ]
       },
       {
         "title": "Cada dato tiene su lugar",
@@ -742,7 +1586,45 @@
         "narration": "La dirección se puede dividir en partes. Calle setenta y dos identifica la calle. Número treinta y ocho, guion, ciento cincuenta identifica la numeración del inmueble. El barrio es El Recreo. La ciudad es Barranquilla y el país, Colombia. Si preguntan por el número de la calle, corresponde setenta y dos, no treinta y ocho, ciento cincuenta. Leer cada etiqueta evita mezclar datos diferentes.",
         "start": 125.625,
         "duration": 35.708333333333336,
-        "end": 161.333333
+        "end": 161.333333,
+        "voiceDuration": 26.544,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 2.938,
+            "text": "La dirección se puede dividir en partes."
+          },
+          {
+            "offset": 2.988,
+            "duration": 2.8241,
+            "text": "Calle setenta y dos identifica la calle."
+          },
+          {
+            "offset": 5.812,
+            "duration": 5.3472,
+            "text": "Número treinta y ocho, guion, ciento cincuenta identifica la numeración del inmueble."
+          },
+          {
+            "offset": 11.1593,
+            "duration": 2.1644,
+            "text": "El barrio es El Recreo."
+          },
+          {
+            "offset": 13.3236,
+            "duration": 3.4394,
+            "text": "La ciudad es Barranquilla y el país, Colombia."
+          },
+          {
+            "offset": 16.763,
+            "duration": 6.2597,
+            "text": "Si preguntan por el número de la calle, corresponde setenta y dos, no treinta y ocho, ciento cincuenta."
+          },
+          {
+            "offset": 23.0227,
+            "duration": 3.4954,
+            "text": "Leer cada etiqueta evita mezclar datos diferentes."
+          }
+        ]
       },
       {
         "title": "Observa, conecta y explica",
@@ -757,7 +1639,30 @@
         "narration": "Terminamos con tres hábitos de investigador: observa con atención, conecta las pistas y explica tu respuesta. Ya puedes relacionar lugares con sus funciones, interpretar las descripciones de Lucas, Sofía y Mateo y separar los datos de una dirección. Después de estos retos podrás hacer una misión final con preguntas de los cinco capítulos. Si una respuesta necesita revisión, tendrás una pista y otra oportunidad.",
         "start": 161.333333,
         "duration": 33.958333333333336,
-        "end": 195.291667
+        "end": 195.291667,
+        "voiceDuration": 24.24,
+        "sentences": [
+          {
+            "offset": 0.1,
+            "duration": 6.4931,
+            "text": "Terminamos con tres hábitos de investigador: observa con atención, conecta las pistas y explica tu respuesta."
+          },
+          {
+            "offset": 6.5431,
+            "duration": 7.8569,
+            "text": "Ya puedes relacionar lugares con sus funciones, interpretar las descripciones de Lucas, Sofía y Mateo y separar los datos de una dirección."
+          },
+          {
+            "offset": 14.4,
+            "duration": 5.2083,
+            "text": "Después de estos retos podrás hacer una misión final con preguntas de los cinco capítulos."
+          },
+          {
+            "offset": 19.6083,
+            "duration": 4.6315,
+            "text": "Si una respuesta necesita revisión, tendrás una pista y otra oportunidad."
+          }
+        ]
       }
     ],
     "checkpoint": {

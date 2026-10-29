@@ -20,8 +20,14 @@ export function activeBeat(lesson,time){let found=0;lesson.beats.forEach((b,i)=>
 export function checkpointCrossed(previous,current,at,answered){return !answered&&previous<at&&current>=at;}
 export function formatTime(seconds){if(!Number.isFinite(seconds))return '0:00';const s=Math.max(0,Math.floor(seconds));return `${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}`;}
 export function currentCaption(beat,time){
+  const relative=time-beat.start-.65;
+  if(Array.isArray(beat.sentences)&&beat.sentences.length>0){
+    if(relative<0)return '';
+    const hit=beat.sentences.find(s=>relative>=s.offset-.15&&relative<=s.offset+s.duration+.45);
+    return hit?hit.text:'';
+  }
   const sentences=beat.narration.split(/(?<=[.!?])\s+/);const total=sentences.reduce((n,s)=>n+s.length,0);
-  const relative=time-beat.start-.65;if(relative<0||relative>beat.duration-1.5)return '';
+  if(relative<0||relative>beat.duration-1.5)return '';
   const target=relative/(beat.duration-1.5)*total;let count=0;
   return sentences.find(s=>(count+=s.length)>=target)??sentences.at(-1)??'';
 }
